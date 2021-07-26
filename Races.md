@@ -12,9 +12,7 @@ Born of dragons, as their name proclaims, the dragonborn walk proudly through a 
 
 ### Description
 
-It is rumored that the dragonborn first hatched from Dragon Tooth and Tyon Desert.  A palaced ruled by the Dragonborn is rumored to exist in the Tyon Desert, but none have made from there and lived to tell the tale.
-
-Today the half-dragons can be found rebuilding there city (Tymanther) and can be found in most of the larger cities of Waterdeep along with the lands of Echor, Vad Aroiga, Dór -o taur, and Puig Gwilith.
+It is rumored that the dragonborn first hatched from somewhere in the Tyon Desert.  A palaced ruled by the Dragonborn is rumored to exist in the Tyon Desert, but none have made from there and lived to tell the tale.
 
 ### Age Range
 
@@ -39,7 +37,7 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
 
 Four major groups of dwarves exist in the New World.
 
-  - **East Coast**:  The dwarves from the East Coast came to the lands with the humans, gnomes, halfings, tiefling during the pilgrimage from the old land.  Once arriving in Echor the dwarves spread to the north and south of the lands - some taking to the mountains of Calmarnock while others ventured into the Frozen Lands.  These dwarves are also called the "Hill Dwarves" in the Players Handbook.  
+  - **East Coast**:  The dwarves from the East Coast came to the lands with the humans, gnomes, halfings, tiefling during the pilgrimage from the old land.  Once arriving in Echor the dwarves spread to the north and south of the lands - some taking to the mountains of Donnar Mugdor while others ventured into the Frozen Lands.  These dwarves are also called the "Hill Dwarves" in the Players Handbook.  
 
   - **West Coast**:  The dwarves from the West Coast came to the lands with the elves, gnomes, and tiefling from the lands of Eshiya in the Old World.  These dwarves are also called the "Mountain Dwarves" in the Players Handbook.
 
@@ -148,13 +146,13 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 ![Goliath Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/620/420/618/636286749289682134.png)
 ### Overview
 
-At the highest mountain peaks — far above the slopes where trees grow and where the air is thin and the frigid winds howl — dwell the goliath.  Before the Titan Wars the Hill Giants were an intelligent race of beings that roamed the plains as far north as the Dakotas and far south as the Marshes.  A friendship grew between the humans and the giants when they decided to band together in order to defeat the titans, eventually leading to the start of the Goliath race. Early on they had a hard time blending into either society and after the curse was put on the Hill Giants after the Titan war, they fled north into the Dakotas and the Frozen North to the cold mountains.
+At the highest mountain peaks — far above the slopes where trees grow and where the air is thin and the frigid winds howl — dwell the goliath.  Before the Titan Wars the Hill Giants were an intelligent race of beings that roamed the plains as far north as Gintorum and far south as Brinedenn.  A friendship grew between the humans and the giants when they decided to band together in order to defeat the titans, eventually leading to the start of the Goliath race. Early on they had a hard time blending into either society and after the curse was put on the Hill Giants after the Titan war, they fled north into the Frozen North to the cold mountains, making allies with the Dwarves looking to trade.
 
 ### Description
 
 The Goliath are small in numbers and prefer to stay in tribes or bands with the rules of honor guiding them.  The Goliath are very driven competitors and have the compulsion to keep score, counting there deeds and kills, tallying their accomplishments to compare to others.  Goliaths love to win, but will always look at defeat as a lesson to point out how to improve.
 
-Around 700 AT the Goliaths starting to roam south when there lands stopped growing crops and animals became scarce.  
+Around 900 AT the Goliaths starting to roam south when there lands stopped growing crops and animals became scarce.  
 
 ### Age Range
 
@@ -167,7 +165,7 @@ Goliaths have lifespans that last a big longer than human, living to be between 
 ![Half-Orc Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/466/420/618/636274570630462055.png)
 ### Overview
 
-As seen by civilized races, half-orcs are large creatures that look more like there Orc ancestry than there human. Half-orcs are the result of unions between the humans and orcs living in the Dakotas and Great Plains.  They usually forced to grow up hard and fast, constantly fighting for protection or to make names for themselves. Half-orcs as a whole resent this treatment, and rather than play the part of the victim, they tend to lash out, unknowingly confirming the biases of those around them. 
+As seen by civilized races, half-orcs are large creatures that look more like there Orc ancestry than there human. Half-orcs are the result of unions between the humans and orcs living in the Orc Plains.  They usually forced to grow up hard and fast, constantly fighting for protection or to make names for themselves. Half-orcs as a whole resent this treatment, and rather than play the part of the victim, they tend to lash out, unknowingly confirming the biases of those around them. 
 
 ### Description
 
@@ -264,7 +262,7 @@ Hailing from a strange and distant land to the south of the Tyon desert, the wan
 
 The tabaxi are native to the new world and legions state they traveled from the dangerous jungles of the south where large lizard like creatures called Dinosaurs roam the lands.  Most tabaxi group together and remain in there distant jungle lands.  These tabaxi hunt for food, craft goods, and largely keep to themselves.  
 
-Not all tabaxi are satisfied by this lifestyle and long for adventure.  Eventually this drove them north where they settled and created the port city of Chataire, and the west coastal city of Laug nen beautui. Since they they have spread throughout the cities of the new lands can many can be found in the streets of Echor, Waterdeep along with wondering the lands of Vad Aroiga, Frozen Lands, Puig Gwilith, and Dór -o taur.
+Not all tabaxi are satisfied by this lifestyle and long for adventure.  Eventually this drove them north where they settled and created the port city of Chataire, and the west coastal city of Laug nen beautui. Since they they have spread throughout the cities of the new lands can many can be found in the streets of Echor along with wondering the lands of Vad Aroiga, Frozen Lands, Puig Gwilith, and Dór -o taur.
 
 The tabaxi made friends quickly with the elves of the Dór -o taur and stories passed down from generations ago state they helped the elves break the "lust" that plagued them when they settled into Dór -o taur.  Because of this, the elves treat the Tabaxi as one of there own.  The elves of Puig Gwilith got along with the tabaxi so much that they traveled with them south to eventually discover and settle in the city of Laug nen beautui. 
 

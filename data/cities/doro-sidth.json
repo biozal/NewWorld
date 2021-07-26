@@ -1,0 +1,449 @@
+{
+	"id": "9BE2B0D7-65AC-498C-8A18-D93E2C3D8CCA",
+	"name": "Dor-o sídh",
+	"description": "The capital city of the Western world elves that traveled to here from the old world.  The center of the city is the Dór -o sídh Tree - a large tree that is the largest tree in all the lands.",
+	"geography": "",
+	"imports": ["coffee", "tea", "wine", "rice", "beer", "ale", "armor", "weapon"],
+	"exports": ["soybean", "grain products", "vegetables", "fish", "dairy", "meat", "hide", "seed", "armor", "weapon"],
+	"government": "",
+	"governmentType": "Monarchy",
+	"orginalCity": "Seattle",
+	"orginalState": "Washington",
+	"orginalCountry": "USA",
+	"population": 150000,
+	"history": "Dor-o sídh was originally inhabited by the elves called `o sídh a galad` before the new world settlers came to the land.  Eventually the new world settlers came to disagreements with the `o sídh a galad` and they left the lands and haven't been seen in over 800 years.  In the center of the city is the `ambar nimloth` or 'World Tree' - a tree so large that it can been seen from miles and miles away.  This is now the home of the old land settlers and is ran by the 'Council of the Wise', a group of 18 men and women that are elected from the cities 9 districts to govern the city for the betterment of it's people and to continue to protect the world tree.",
+	"law": "",
+	"primaryRaces": ["Elves","Tabaxi","Half-Elves", "Halfing","Gnome","Kenku", "Dragonborn"],
+	"secondaryRaces": ["Tiefling","Orc", "Golaith", "Human", "Gold Dragons"],
+	"religions": ["Paltar", "Silvanus", "Thymisis"],
+	"helperUrls": [
+		"https://www.seattle.gov/neighborhoods/neighborhoods-and-districts"
+	 ],
+	"districts": [
+		{
+			"name": "Council District 1",
+			"originalName": "Council District 1",
+			"description": "",
+			"government": 
+			[
+				{
+					"name": "Wyrran Magro - Male",
+					"description": "Council Member"
+		 		},
+				{ 	"name": "Esiyae Carthyra - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["West Seattle", "South Park"],
+			"temples": 
+			[
+				{
+					"id": "BAE8D52D-E2C2-4635-BBFA-95BE90078CCE",
+					"name": "Shrine Of Dueyr",
+					"description": "",
+					"god": "Paltar",
+					"symbol": "Star",
+					"npc": 
+					[
+						{
+							"id": "70F7CF65-C1A0-4FB1-B366-C54BA0B9BB07",
+							"name": "Halamar Zylfiel",
+							"description": ""
+						},
+						{
+							"id": "64A88A18-8D5A-43B3-A559-BF16F4044258",
+							"name": "Kilyn Pethorn",
+							"description": ""
+						}
+					]
+				}
+			],
+			"shops": [
+				{
+					"id": "73657BDA-01D3-4E2B-AE66-91F303DDFC9F",
+					"name": "Bottled Cures & Curses",
+					"description": "Potions, herbs, and alchemy supplies",
+					"location": "",
+					"type": "items",
+					"npc": [
+						{
+							"id": "D6B3640F-5302-4444-AFB8-82EF04F4A2FF",
+							"name": "Keishara Carstina",
+							"description": "Black, curly hair hangs over a bony, charming face. Beautiful green eyes, set delicately within their sockets, watch heartily over the shop they've owned for so long.  A tattoo resembling a small dragon is almost hidden on the side of her right cheekbone and leaves a bittersweet memory of innocence long lost.",
+							"sex": "F"
+						}
+					]
+				},
+				{
+					"id": "9B012D6F-E8F9-4A91-A614-BD0A1CE24ACA",
+					"name": "The Brass Lute",
+					"description": "Musical instruments hand crafted",
+					"location": "",
+					"type": "items",
+					"npc": [
+						{
+							"id": "21BDAB7B-4CA0-443F-96E6-90BF8A887CDF",
+							"name": "Jonik Oriris",
+							"description": "Brown, shoulder-length hair gently hangs over a lean, anguished face. Darting amber eyes, set appealingly within their sockets, watch carefully over the musical items they've become enchancted by for so long.",
+							"sex": "M"
+						}
+					]
+				},
+				{
+					"id": "BC827B06-4514-454F-926F-CD9E54399F44",
+					"name": "The Tall Blade",
+					"description": "Weapon store",
+					"location": "",
+					"type": "weapons",
+					"npc": [
+						{
+							"id": "18EF018C-7579-4072-BDD6-A27B4B80B31E",
+							"name": "Kelvhan Wyndove",
+							"description": "Golden, long hair slightly reveals a handsome, lived-in face. Piercing pink eyes, set buried within their sockets, watch meticulously over the weapons in the store.  A sword left a mark reaching from the bottom of the right cheekbone , running towards his upper lip and ending on his left cheek leaves a grievous memory of forbidden adventures.",
+							"sex": "M"
+						}
+					]
+				},
+				{
+					"id": "BC827B06-4514-454F-926F-CD9E54399F44",
+					"name": "Abracadabra",
+					"description": "Scrolls, wands, and other magical items for casters",
+					"location": "",
+					"type": "magic",
+					"npc": [
+						{
+							"id": "18EF018C-7579-4072-BDD6-A27B4B80B31E",
+							"name": "Siora Iarrie",
+							"description": "Light green, sleek hair tight in a bun reveals a lean, tired face. Lidded blue eyes, set within their sockets.  She was born without her left arm from right above her elbow.",
+							"sex": "F"
+						}
+					]
+				}
+			],
+			"inns": [
+				{
+					"id": "40B07705-25B0-42BA-8675-41E758E05C1A",
+					"name": "Obsidian Blossom",
+					"description": "small inn with 8 rooms, each has 2 beds",
+					"npc": [
+						{
+							"id": "FAEB61FE-D617-4549-B3E0-A928B5C7CC04",
+							"name": "Ulesse Xilgella",
+							"description": "Blue, layered hair slightly covers a full, anguished face. Shuttered aquamarine eyes, set rooted within their sockets.  A scar stretching from the bottom of the right cheekbone , running towards her right nostril and ending on her right cheekbone and leaves an amusing memory of forbidden love, a true globetrotter among night elves. She stands average among others, despite her athletic frame.  There's something alluring about her, perhaps it's her good looks or perhaps it's simply her sense of honor. But nonetheless, people tend to ask her for advice, while secretly admiring her.",
+							"sex": "F"
+						},
+						{
+							"id": "393DAE3B-3F5C-482C-8949-0D29BD7CCDCD",
+							"name": "Syllia Xilgella",
+							"description": "Wife of Ulesse",
+							"sex": "F"
+						}
+					]
+				},
+				{
+					"id": "93BA58CB-8B2C-4A30-ADC2-09A8CD75E6EB",
+					"name": "Seaside Nimbus",
+					"description": "Medium inn with 12 rooms, each has 4 beds",
+					"npc": [
+						{
+							"id": "0A7C9A5C-55DB-4679-B8D2-C000B28545E0",
+							"name": "Dain Bira",
+							"description": "Red, curly hair awkwardly hangs over a plumb, tired face. Clear brown eyes, set concealed within their sockets, watch vigilantly as the party enters the inn.  A large beard handsomely compliments his cheekbones and leaves a bittersweet memory of his fortunate survival.  This is the face of Dain Bira, a true pioneer among dwarves. He stands short among others, despite his slim frame.  There's something bewildering about him, perhaps it's his sense of justice or perhaps it's simply his composure. But nonetheless, people tend to ask him about his adventures before he retired and bought the inn with the little money he made.",
+							"sex": "M"
+						},
+						{
+							"id": "2C2025FF-F70F-418E-9DDE-767F383F15E8",
+							"name": "Elasha Bira",
+							"description": "Wife of Dain",
+							"sex": "F"
+						}
+					]
+				}
+			],
+			"taverns": [
+				{
+					"id": "64024F17-166C-471B-B67A-F8D73B8239A9",
+					"name": "The Glamorous Tortoise",
+					"description": "Large tavern with 12 tables spread apart with a stage for performances.  This tavern has 6 smaller 2 bedrooms available for rent.",
+					"npc": [
+						{
+							"id": "281D646B-8813-4EB9-9FBA-1EDD6ED771C8",
+							"name": "Tinlef Dawnthorn",
+							"description": "Light green, sleek hair almost fully covers a lean, frowning face. Narrow pink eyes, set concealed within their sockets.  A goatee seductively compliments his mouth.  This is the face of Tinlef Dawnthorn, a true warden among  elves. He stands tall above others, despite his muscled frame.  There's something appealing about him, perhaps it's his warmth or perhaps it's simply a feeling of comfort.",
+							"sex": "M"
+						}
+					]
+				},
+				{
+					"id": "D1B63965-BA91-4345-A9F7-6E02C855C27B",
+					"name": "The Silver Whip Tavern",
+					"description": "Medium size tavern with 8 tables spread apart with a large bar.",
+					"npc": [
+						{
+							"id": "3B1022AA-DD15-4EB9-B6BB-F387818A8FBF",
+							"name": "Camryn Cawthorn",
+							"description": "Black, short hair neatly coiffured to reveal a thin, gloomy face. Hooded hazel eyes, set concealed within their sockets.  Camryn Cawthorn, a true utopian among dwarves. She stands short among others, despite her light frame.  There's something misleading about her, perhaps it's a feeling of delight or perhaps it's simply her composure. But nonetheless, people tend to stay on her good side, while learning as much about her as possible.",
+							"sex": "F"
+						}
+					]
+				}
+			],
+			"landmarks": [
+				{
+					"name": "",
+					"description": "",
+					"type": "",
+					"npc": [
+						{
+							"firstName": "",
+							"lastName": "",
+							"description": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Council District 2",
+			"originalName": "Council District 2",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Theodluin Inazana - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Amarille Wysaren - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["Southeast Seattle", "Georgetown"],
+			"temples": [],
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		},
+		{
+			"name": "Council District 3",
+			"originalName": "Council District 3",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Ilthuryn Yeslar - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Tanila Yinthyra - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["Central Seattle"],
+			"temples":
+			[
+				{
+					"id": "7E21DFE8-8FC5-4A01-9406-7A888DDA418E",
+					"name": "The Azure Tree",
+					"description": "",
+					"god": "Thymisis",
+					"symbol": "Hearth",
+					"npc": 
+					[
+						{
+							"id": "C4308C17-6766-4F8F-BFF1-EDF39F9D2C9F",
+							"name": "Myriil Sarkalyn",
+							"description": ""
+						},
+						{
+							"id": "776BFA67-175F-4115-8C38-D8B96A7514A2",
+							"name": "Tannyll Gendi",
+							"description": ""
+						}
+					]
+				}
+			], 
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		},
+		{
+			"name": "Council District 4",
+			"originalName": "Council District 4",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Theodmer Adberos - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Esiyae Carthyra - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["Northeast Seattle"],
+			"temples": [],
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		},
+		{
+			"name": "Council District 5",
+			"originalName": "Council District 5",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Taenaran Zylzumin - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Ghilanna Kelxina - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["North Seattle"],
+			"temples": [],
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		},
+		{
+			"name": "Council District 6",
+			"originalName": "Council District 6",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Druindar Liajor - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Syllia Urizorwyn - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["Northwest Seattle"],
+			"temples": [],
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		},
+		{
+			"name": "Council District 7",
+			"originalName": "Council District 7",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Flinar Elavyre - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Symania Sarquinal - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["Pioneer Square to Magnolia "],
+			"temples": [],
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		},
+		{
+			"name": "Council District 8",
+			"originalName": "Bellevue",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Kyrtaar Zinquinal - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Madris Wynphine - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["Bellevue"],
+			"temples": [],
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		},
+		{
+			"name": "Council District 9",
+			"originalName": "Redmond",
+			"description": "",
+			"government": 
+			[			
+				{
+					"name": "Inialos Trisgolor - Male",
+					"description": "Council Member"
+			 	},
+				{ 	
+					"name": "Elenaril Krisgwyn - Female",
+					"description": "Council Member"
+				}
+			],
+			"originalGeographicAreas": ["Redmond"],
+			"temples":
+			[
+				{
+					"id": "2A5F4B70-54C2-4557-92B5-D9C4AEABB01D",
+					"name": "The Azure Tree",
+					"description": "",
+					"god": "Silvanus",
+					"symbol": "Black Panther",
+					"npc": 
+					[
+						{
+							"id": "AA417136-244D-4687-A6B2-CAFBBC904774",
+							"name": "Elidyr Dorfiel",
+							"description": ""
+						},
+						{
+							"id": "6D5E2A81-8824-43E2-8D6C-872375CE3730",
+							"name": "Mnementh Iarroris",
+							"description": ""
+						}
+					]
+				}
+			],
+			"shops": [],
+			"inns": [ ],
+			"taverns": [ ],
+			"landmarks": [ ]
+		}
+	],
+	"shops": [],
+	"inns": [],
+	"taverns": [],
+	"landmarks": [],
+	"temples": [],
+	"connections": 
+	[
+		{
+			"id": "52958FF0-4146-407C-A952-DA8CA57ED012",
+			"name": "Silverport",
+			"distance": 34,
+			"distanceUnit": "miles",
+			"risk": 1 
+		},
+		{
+			"id": "1BFC4D0E-0B25-4627-9185-3C02A2C783F9",
+			"name": "Laug Emel",
+			"distance": 143,
+			"distanceUnit": "miles",
+			"risk": 1
+		}
+	]
+}

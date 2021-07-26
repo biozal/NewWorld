@@ -1,0 +1,32 @@
+{
+	"id": "52958FF0-4146-407C-A952-DA8CA57ED012",
+	"name": "Silverport",
+	"description": "The port city of the Western world elves that traveled to here from the old world.",
+	"orginalCity": "Tacoma",
+	"orginalState": "Washington",
+	"orginalCountry": "USA",
+	"population": 5000,
+	"primaryRaces": ["Elves","Tabaxi","Half-Elves", "Halfing","Gnome","Kenku"],
+	"secondaryRaces": ["Tiefling","Orc", "Golaith", "Human"],
+	"connections": 
+	[
+		{
+			"id": "9BE2B0D7-65AC-498C-8A18-D93E2C3D8CCA",
+			"name": "Dor-o sidth",
+			"distance": 34,
+			"distanceUnit": "miles" 
+		},
+		{
+			"id": "130D0F80-1389-48F4-B964-D8DEEDD2DA2D",
+			"name": "Asve Serin",
+			"distance": 227,
+			"distanceUnit": "miles" 
+		},
+		{
+			"id": "D5AE532F-C387-41B5-94A8-082C797DEBC2",
+			"name": "Y'aththemar",
+			"distance": 144,
+			"distanceUnit": "miles" 
+		}
+	]
+}

@@ -1,0 +1,428 @@
+# Regions 
+
+The following regions break down the current structure of the lands along with which races primiarly live in each region.  While regions have a logical break down, any race could technically speaking be from any region, however, if you are a from a race that isn't widely known to be in that region you would need to cover this in your back story. 
+
+## Dór -o sídh
+--------------
+- **Description**:  High Elves from the old world sacred home. The region is also the name of the capital city of the same name.  This region is governed by the councils of each city and band together for the betterment of all races and nature.  
+- **Primary Races**:  Elves, Half-Elves, Human, Halfings, Tabaxi, Satyr, Leonin, Firblog
+- **Secondary Races**:  Dwarves, Gnomes, Kenku, Kobold, Dragonborn, Tieflings, Orc, Aarakocra, Aasimar, Goblin, Hobgoblin, Triton, Tortle, Owlfolk, Rabbitfolk
+- **Population**:  > 450,000 
+- **Original States**: Washingon, Oregon, California
+- **Capital City**: Dór -o sídh (Seattle) 
+- **Cities**: 
+  -  **Dor-o sidth** (*Seattle, WA*):  Capital City
+     -  **Population**:  ~ 150,000
+  -  **Silverport** (*Tacoma, WA*):  Port trading city 30 miles out of the capital
+     -  **Population**:  ~ 30,000
+  -  **Laug Emel** (*Vancover, BC*): Most northern city of elves.  This port city has most races in the lands living in it and is a mixing pot of "tough" people to survive the ever changing weather of the region.  
+     -  **Population**:  ~ 80,000
+  -  **Asve Serin** (*Kennewick, WA*):  Small druid town made of Elves, Half-Elves, Halfings, Satyr, and Tabaxi
+     -  **Population**:  ~ 500
+  -  **Skal** (*Spokane, WA*):  Last city of the Golaith barbarians.  Very tribal but will trade with outsiders.  They have olympics every 8 seasons to crown the strongest of the lands.
+     -  **Population**:  ~ 800
+  -  **Y'aththemar** (*Portland, OR*):  Port city of fishermen and trappers (rangers).  Training location for the forest stockers (rangers). 
+     -  **Population**:  ~ 30,000 
+  -  **Oceanforest** (*Oceanside, OR*):  Small port town known for it's small group of big seas fishmen that brave the ocean to harvest large fish from the ocean.
+     -  **Population**:  ~ 5,000 
+  -  **Unyellenor** (*Salem, OR*):  Small farmers town off the long road to Milui Nur Tul.  Several inns and shops sell to travelers.
+     -  **Population**:  ~ 100 
+  -  **Fafdell**:  Monk monistary in the woods.
+     -  **Population**:  unknown 
+  -  **Uyath Anore** (*Eugene, OR*):  Small down of half-elves and halfings on the long road to Milui Nur Tul.  Simple people that don't care for larger cities and people from them.  They mostly keep to themselves.
+     -  **Population**:  ~ 1,000 
+  -  **Kymesriin** (*Medford, OR*):  Small town on the long road to Milui Nur Tul.  
+     -  **Population**:  ~ 750 
+  -  **Thundertree** (*Redding, CA*): City in the large trees north of Milui Nur Tul.   
+     -  **Population**:  ~ 25,000 
+  -  **Highmoon** (*Sacramento, CA*): City with a river that flows through it.  Has the only known road to the town of Glilas.  An accient Dwarven fortrest was rcently discovered and the dwarves have a strange minerals that they use to create weapons and armor that they are willing to trade.  
+     -  **Population**:  ~ 15,000 
+  -  **Milui Nur Tul** (*San Francisco, CA*): Very large spread out port town with a large population of Elves and Tabaxi.  Rumored to be the original location that the dor nip plant was found in and recently rare minerals have been discovered in the mountains to the north east.  Large ships have come in to start carrying goods and bring people also interested in finding more minerals in the mountains to the north. 
+     -  **Population**:  ~ 80,000 
+  -  **Miog In nen** (*Big Sur, CA*): Small coastal town known for it's dangerous winding mountain roads.  
+     -  **Population**:  ~ 1,000 
+  -  **Urui miog** (*Fresno, CA*): Small town known for it's beautiful views of mountains. 
+     -  **Population**:  ~ 1,000 
+  -  **Miog nor-thúl** (*Los Angeles, CA*): Large port city that is very spread out with beautiful views of mountains.  Long recorded as the original location that the Elves from the old world met the Tabaxi race from the south. 
+     -  **Population**:  ~ 90,000 
+
+## Catnip 
+---------
+- **Description**: The homeland of the western tribe of Tabaxi people whom migrated from the Southlands over a 1,000 years ago.  These tribal groups band together and will defend there new homes from any and all they consider a threat.
+- **Primary Races**:  Tabaxi, Leonin 
+- **Secondary Races**:  Elves, Kenku, Kobold, Dragonborn, Tieflings, Aarakocra, Aasimar, Goblin 
+- **Population**:  > 120,000 
+- **Original States**: California, Baja California (Mexico), Texas
+- **Capital City**: Miog othrond (Ensenada), Chataire (Corpus Christi, TX)  
+- **Cities**: 
+  -  **Laug nen beavtvi** (*San Diego, CA*): Large port city with the primary race being Tabaxi. 
+     -  **Population**:  ~ 40,000 
+  -  **firn radag** (*Tijuana, Mexico*): The pirate port city with a large amount of scum.  Considered a very dangerous place.
+     -  **Population**:  ~ 15,000 
+  -  **Miog othrond** (*Ensenada, Mexico*): Southern Tabaxi captial city.  This port city is surrounded by large hills.  The tabaxi settled here due to the large supply of fish and it's large hills that has many defensive towers built into it. 
+     -  **Population**:  ~ 60,000 
+  -  **Zhabinava** (*Amarillo, TX*):  Northern most town famous location of the peace treaty signing between the Tabaxi and Orcs. 
+     -  **Population**:  ~ 5,000 
+  -  **Inobianice** (*Lubbock, TX*): Small town 
+     -  **Population**:  ~ 500 
+  -  **Tymanther** (*Midland, TX*): Small town with mixture of Tabaxi and Dragonborn
+     -  **Population**:  ~ 5000 
+  -  **Lipcaleni** (*Dallas, TX*): Medium size town on the road to the Orc capital city of Ogogh. 
+     -  **Population**:  ~ 25,000 
+  -  **Oneciu** (*Austin, TX*): Abandoned town rumorered to be cursed 
+     -  **Population**:  unknown 
+  -  **Bubani** (*San Antonio, TX*): Abandoned town rumorered to be cursed 
+     -  **Population**:  unknown 
+  -  **Chataire** (*Corpus Christi, TX*): Tabaxi captial city of the east.  Large port city that is used to trade between the north and east most cities. 
+     -  **Population**:  80,000 
+  -  **Hailodar** (*Houston, TX*): Northern trade town with many warez from Chataire. 
+     -  **Population**:  20,000 
+  -  **Kihong** (*Matamoros, Mexico*): Tabaxi military base.
+     -  **Population**:  unknown 
+
+## Tyon Desert
+--------------
+- **Description**:  Large desert like area of dry land long ruled by the red dragons before the time of the new gods.  This is the long rumored birth place of the Dragonborn race of people.  Known to be a dangerous place to travel, many try to use only known paths through the rough terrian and stock up well on supplies in the very small amount of towns on the road to the east.  This is one of three known routes to the east and the only route that doesn't go through Orc country.
+- **Primary Races**:  Dragonborn, Tiefling, Human, Kobold, Tieflings, Goblin, Bugbear, Hobgoblin 
+- **Secondary Races**:  Elves, Kenku, Aarakocra, Aasimar, Halfling
+- **Population**:  > 80,000 
+- **Original States**: Nevada, Arizona, New Mexico, Mexico 
+- **Capital City**: None 
+- **Cities**: 
+  -  **Glilas** (*Reno, NV*): last known town before the large desert to the east and north. 
+     -  **Population**:  < 5,000 
+  -  **Ugerth** (*Los Vegas, NV*): The lawless desert city which some have recently discovered ancient artifacts.  Only known route to the Salt region with a road that leads to Pata. Has many over priced shops.
+     -  **Population**:  < 10,000 
+  -  **Legiozów** (*Phoenix, AZ*): Small desert town on the road to the east. 
+     -  **Population**:  ~ 5,000
+  -  **Glidz** (*Tuscon, AZ*): Small desert town on the road to the east. Known for extremely high price of water.
+     -  **Population**:  ~ 2,000
+  -  **Dobhy** (*Hermosillo, Mexico*): Rumored city of Dragonborn. 
+     -  **Population**:  unkown 
+  -  **Lajorog** (*Las Cruces, NM*):  Small, dangerous  trade city with paths to the east, north, and south.  Many bandits are known to hi-jack carts in this region.
+     -  **Population**:  ~ 5,000 
+  -  **Uricanina** (*Ciudad Juárez, Mexico*):  Abandoned city that is considered cursed. 
+     -  **Population**:  unkown 
+  -  **Adviizerske** (*Albuquerque, NM*): Small town on path to Ae Ville.   
+     -  **Population**:  5,000 
+  -  **Kashalchyn** (*Santa Fe, NM*): Poor town of clay buildings. 
+     -  **Population**:  ~ 1,000 
+
+## Mixed Races
+--------------
+- **Description**:  The mixed races are a region of land and collection of cities that are self governed and have no outside influences on how the town/cities are ran.  Each city tends to have it's own tax system and roads in these regions tend to be more dangerous as there isn't a known military presence guarding the roads and making sure they are safe.  Some areas are now contested as a 200 year war between the Orcs, Minataur, and Humans have broken out (Minnesota, Iowa, and Missouri).   
+- **Primary Races**:  All races 
+- **Original States**: Utah, Idaho, Wyoming, Minnesota*, Iowa*, Missouri*, Wisconsin, Michigan, Illinios, Ohio, Maine
+- **Capital City**: None 
+- **Cities**: 
+  -  **Pata** (*St. George, UT*): 
+     -  **Population**:  
+  -  **Kirkusrah** (*Beaver, UT*): 
+     -  **Population**:  
+  -  **Al-Miriyah** (*Salt Lake City, UT*): 
+     -  **Population**:  
+  -  **Azanawat** (*Jackson, WY*): 
+     -  **Population**:  
+  -  **Faghada** (*Casper, WY*): 
+     -  **Population**:  
+  -  **Nebiotpasa** (*Pacatello, ID*):  
+     -  **Population**:  
+  -  **Deima** (*Idaho Falls, ID*):  
+     -  **Population**:  
+  -  **Nabafag** (*Twin Falls, ID*):  
+     -  **Population**:  
+  -  **Barenura** (*Boise, ID*):  
+     -  **Population**:  
+  -  **Slobonii** (*Grand Junction, CO*):  
+     -  **Population**:  
+  -  **Ae Ville** (*Denver, CO*):  
+     -  **Population**:  
+  -  **Falluruk** (*Fort Collins, CO*):  
+     -  **Population**:  
+  -  **Panraolt** (*Colorado Springs, CO*):  
+     -  **Population**:  
+  -  **Panraolt** (*Colorado Springs, CO*):  
+     -  **Population**:  
+  -  **Dmirtau** (*Eau Claire, WI*):  
+     -  **Population**:  
+  -  **Elvande** (*Madison, WI*):  
+     -  **Population**:  
+  -  **Penzio** (*Milwaukee, WI*):  
+     -  **Population**:  
+  -  **Capelle** (*Appleton, WI*):  
+     -  **Population**:  
+  -  **El Sugro** (*Green Bay, WI*):  
+     -  **Population**:  
+  -  **Sayalapa** (*Iron Mountain, MI*):  
+     -  **Population**:  
+  -  **Donnar Mugdor** (*Calumetg, MI*):  
+     -  **Population**:  
+  -  **Frozen Port** (*Saulte Ste Marie, MI*):  
+     -  **Population**:  
+  -  **Noliel** (*Mackinaw City, MI*):  
+     -  **Population**:  
+  -  **Zhentil Keep** (*Traverse City, MI*):  
+     -  **Population**:  
+  -  **Telid** (*Muskegon, MI*):  
+     -  **Population**:  
+  -  **Detoxit** (*Detroit, MI*):  
+     -  **Population**:  
+  -  **Torez** (*Chicago, IL*):  
+     -  **Population**:  
+  -  **Akerton** (*Springfield, IL*):  
+     -  **Population**:  
+  -  **Nerda** (*Indianapolis, IN*):  
+     -  **Population**:  
+  -  **Badavilés** (*Fort Wayne, IN*):  
+     -  **Population**:  
+  -  **Bluugate** (*Columbus, OH*):  
+     -  **Population**:  
+  -  **Aternum** (*Cincinnati, OH*):  
+     -  **Population**:  
+  -  **Raphae** (*Portland, ME*):  
+     -  **Population**:  
+  -  **Wolfdenn** (*Bangor, ME*):  
+     -  **Population**:  
+  -  **Wolfdenn** (*Bar Harbor, ME*):  
+     -  **Population**:  
+
+### Contested Cities at War
+---------------------------
+  -  **Myversk** (*Minneapolis, MN*):  
+     -  **Population**:  
+  -  **Blagoveyungri** (*Rochester, MN*):  
+     -  **Population**:  
+  -  **Gudakh** (*Des Moines, IA*):  
+     -  **Population**:  
+  -  **Dhore Lu** (*Iowa City, IA*):  
+     -  **Population**:  
+  -  **Ogkuccerd** (*Columbia, MO*):  
+     -  **Population**:  
+  -  **Epeutross** (*St. Louis, MO*):  
+     -  **Population**:  
+  -  **Oxshear** (*Springfield, MO*):  
+     -  **Population**:  
+
+## Orcs 
+--------------
+- **Description**:  The Orc regions are lands that are ruled by the various orc tribes that have banded together to defend there lands from outsiders.
+- **Primary Races**:  Orc, Half-Orc, Human, Golaith 
+- **Original States**: North Dakota, South Dakota, Nebraska, Kansas, Oklahoma
+- **Capital City**: Ogogh (Oklahoma City, OK) 
+- **Cities**: 
+  -  **Ogogh** (*Oklahoma City, OK*): 
+     -  **Population**: ~60,000 
+  -  **Khuborkri** (*Tusla, OK*): 
+     -  **Population**: ~60,000 
+  -  **Bugnag** (*Wichita, KS*): 
+     -  **Population**: ~60,000 
+  -  **Urgard** (*WaKeeney, KS*): 
+     -  **Population**: ~1,000 
+  -  **Gudkulgan** (*Kansas City, KS*): 
+     -  **Population**: ~15,000 
+  -  **Ogval Egh** (*Lincoln, NE*): 
+     -  **Population**: ~2,000 
+  -  **Qazocco** (*Oazocco, NE*): 
+     -  **Population**: ~30,000 
+  -  **Zrerdedka** (*Sioux City, NE*): 
+     -  **Population**: ~30,000 
+  -  **Gaggel** (*Sioux Falls, SD*): 
+     -  **Population**: ~5,000 
+  -  **Azdorrag** (*Rapid City, SD*): 
+     -  **Population**: ~40,000 
+  -  **Azdorrag** (*Rapid City, SD*): 
+     -  **Population**: ~40,000 
+  -  **Orag** (*Dickinson, ND*): 
+     -  **Population**: ~25,000 
+  -  **Grodgrashbal** (*Bismarck, ND*): 
+     -  **Population**: ~25,000 
+  -  **Grodgrashbal** (*Fargo, ND*): 
+     -  **Population**: ~20,000 
+  -  **Nul Gudru** (*Grand Forks, ND*): 
+     -  **Population**: ~40,000 
+
+ ## Deadlands 
+--------------
+- **Description**:  The deadlands contain a group/area that has been infected by some kind of blight, killing most things in the area minus some vegitation.  Everyone stears clear of the deadlands for the fear of catching what ever killed of the cities and people that once occupied this region.  Very few that enter these lands live to tell the tale and those few that have tell the stories of undead creatures and humaniod zombies roaming the lands eating anything in there path.  
+- **Primary Races**: Undead 
+- **Original States**: Arkansas, Mississippi, Louisiana
+- **Capital City**: None 
+- **Cities**: 
+  -  **Duskmouth** (*Little Rock, AR*): Once this was a busy trade down connecting the paths from the south to the north with many Orc, Humans, and other races sharing the lands.  This was the first city to fall to the blight and now all the grounds and lands surrounding it are a desolace grey soil with very few living pieces of vegitation left.  
+     -  **Population**: unknown 
+  -  **Swampbrook** (*Shreveport, LA*): Once a swamp city of Goblins, Kobold, and Kenku now this swamp is riddled with undead creatures lurking in the murky waters. 
+     -  **Population**: unknown 
+  -  **Brinedeen** (*Lafayette, LA*): Another swampy town that has been swallowed by the blight.  All that remains of the buildinds are dark black moss, dead trees, and murky water. 
+     -  **Population**: unknown 
+  -  **Dunkapple Castle** (*Jackson, MS*): Dunkapple was a rich family that bought all the lands in the surrounding region and created a large castle (they bought pretty much the entire state of Mississippi).  The Dunkapple family wanted to use the river that ran through there property to charge taxes for any vessels that passed through the lands.  Passage on the river now stops at Tempehold as no one dares travel further south in the river. 
+     -  **Population**: unknown 
+
+## Bird Men 
+--------------
+- **Description**:  The bird men region is a small plot of land that the legion says is the place the Kenku, Aarakocra, and Aasimar originate from.  Much of there history was lost after the Titan War.
+- **Primary Races**: Kenku, Aarakocra, Aasimar, Tortle, Firblog, Kobold, Goblin
+- **Secondary Races**:  Tabaxi, Bug Bear, Hobgoblin, Orc, Dragonborn, Tiefling, Leonin 
+- **Original States**: Florida 
+- **Capital City**: Kara-Tur (Jaskonville, FL) 
+- **Cities**: 
+  -  **Vunvine** (*Tallahassee, FL*): Busy trade route that has roads leading to the sea and is rumored to be the base of one of the major factions, the Black Network.
+     -  **Population**: 20,000 
+  -  **Kara-Tur** (*Jaskonville, FL*):  Captial and main city of the Kenku and Aarakocra.  Old stories tell the tell of one of the council of bird men that came up with the plan to win the Titan War.  It has been said that before the titans fell, they cursed the Kenku with the inability to have there own voice or fly. 
+     -  **Population**: 50,000 
+  -  **Osrinas** (*Orlando, FL*): Primary city of trade with goblins and Kenku being the main two races with a mix of the rest of the races in the region.  This city is known to have a lot of crime and has many dangerous parts of town. 
+     -  **Population**: 30,000 
+  -  **Pheles** (*Tampa, FL*): Port city of the region and a large city that is well spread out.  Is known to smuggle outlaw goods, herbs, and mages from the north to Chataire.   Many Kenku, Goblin, and Tortle retire here.
+     -  **Population**: 50,000 
+  -  **Glappool** (*Okeechobee, FL*): Small city of human mage rebels that have fled from the north make there home hiding from the bounty hunters from Echor. 
+     -  **Population**: 5,000 
+  -  **Gille** (*Miami, FL*): Large port city (region) and primary city of the Tortle and Aarakocra.  This city is very well spread out and spans for over 40 miles.  Since it's so spread out many consider it a seperate region.  
+     -  **Population**: 70,000  
+
+## Mal-zagh people 
+------------------
+- **Description**:  The Mal-zagh people (Orc for mountain people) is a region of people that live close or in the mountains that seperate the Human lead north region of Echor from the rest of the southern and western lands.  The Mal-zagh are simple people and all races can be found in the mountains.  Most Mal-zagh despise anyone coming from the Echor empire.
+- **Primary Races**: all races 
+- **Original States**: Alabama, Georga, South Carolina, North Carolina, Tennesee, Kentucky, parts of Virgina/West Virgina  
+- **Capital City**: Vad Nogaak (Atlana, GA) - unofficially
+- **Cities**: 
+  -  **Moxding** (*Mobile, AL*):  Human port city used for shipping things from the mountains to Ship Haven, Chataire, or Echor.  Some crime syndicates fled from the Echor empire to settle in this region and enjoy the lack goverment rule.  The city is ran by Jack Flack, a man with a shady past but loved by the people.  The city has been nicknamed the port of theives by many.
+     -  **Population**: 30,000 
+  -  **Triel** (*Montgomery, AL*): A city well known for making funiture and growing cotton that is exported all over.   
+     -  **Population**: 20,000 
+  -  **Slord** (*Birmingham, AL*): Another city well known for farming cotton and corn.   
+     -  **Population**: 50,000 
+  -  **Gantale** (*Huntsville, AL*): Secrete location of one of the last magic schools east of the grand mountains to the west.  Many arcane users fled the Echor empire and now live here in fear of bounty hunters.  The citizens of Gantale have hired protection from the Orcs of Bugnag and some mercenaries from Moxding to help hunt down the bounty hunters from the Echor empire.
+     -  **Population**: 20,000 
+  -  **Tempehold** (*Memphis, TN*): Small city on the big river and is primary a trading town. 
+     -  **Population**: 10,000 
+  -  **Empearrun** (*Nashivlle, TN*):  Largest bard collge in the lands where many talented musicians come to study to become a bard. The mayor of the town and head of the school is a tall human named Belvis Slaypre.
+     -  **Population**: 40,000 
+  -  **Hurimere** (*Knoxville, TN*):  Small down known for smelting minerals from the mountains and making moonshine. 
+     -  **Population**: 15,000 
+  -  **Rajkhira** (*Chattanooga, TN*): Small down on a river on top of the mountains.   Most people consider it the last stop before the grand city of Vad Nogaak.
+     -  **Population**: 5,000 
+  -  **Vad Nogaak** (*Atlanta, GA*): Largest city in the Mal-zagh region and a massive mixing pot of all races.  It's said that you can find anything you are looking for in the trades district and many rare minerals from the northern mountains are brought here to be sold on the free market.  The city is ran by a shadow government of mask overlords.  The city employees many guards and police to help make the city safe and because of this most citizens don't care whom runs the town as long as they can make a living.  
+     -  **Population**: 100,000 
+  -  **Ship Haven** (*Savannah, GA*): Largest port city in the Mal-zagh region.  Many goods from Vad Nogaak come from this port or goods from the mountains are brought to this port so they can be shipped to the Echor empire or Chataire.  The city is very dangerous and several guilds of pirates have been known to make there headquarters here due to the work coming out of Vad Nogaak.
+     -  **Population**: 60,000 
+  -  **Fedledo** (*Charleston, SC*): Once a port down is now in ruins and a rare and deadly disease killed off most of the people that once lived this town. 
+     -  **Population**: 500 
+  -  **Abrens** (*Myrtle Beach, SC*): Small port town said to be owned by the pirate Captain Two Tongue.
+      -  **Population**: 5,000 
+  -  **Bagadi** (*Wilmington, NC*): Small port town 
+      -  **Population**: 12,000 
+  -  **Excellantis** (*Raiegh, NC*):  
+      -  **Population**: 25,000 
+  -  **Druford** (*Charlotee, NC*):  
+      -  **Population**: 20,000 
+  -  **Shasona** (*Asheville, NC*):  Trade town and starting of the mountain trails
+      -  **Population**: 5,000 
+  -  **Carales** (*Lexington, KY*):  Small trade town build into the mountains 
+      -  **Population**: 1,000 
+  -  **Londinium** (*Louisville, KY*): Large trading town. 
+      -  **Population**: 20,000 
+
+## Echor Empire 
+------------------
+- **Description**:  The Echor Empire is a region of land ran by the King Robert Danavrious the III and is the only empire that still stands from the old world.  After the fall of the titans arcane use was blamed for the thousands of people that died.  All use of magic is banned in the lands controlled by the King unless licensed and employeed by the government.  Anyone found to use arcane is tried and hanged in public and those that run are hunted down by magic using assassins or bounty hunters.  The people of Echor pay large taxes to the King in exchange for safty and crime in the empire is lower than any other region in the land, although some say government corruption is worse than the crime syndicates. 
+- **Primary Races**: Humans 
+- **Secondary Races**: All other races can apply for citizenship although they must pass a test, swear loyaty to the king, and pay a fee of 1,000 for head of family and 200 gold for each direct family member. 
+- **Original States**: Virgina, Delware, Ohio, New Jersey, Pennsylvania, New York, Vermont, New Hampshire, Massachusetts, Connecticut
+- **Capital City**: Echor (New York, NY) 
+- **Cities**: 
+  -  **Pulsion** (*Virgina Beach, VA*):  South most port of the Echor empire.  Used for shipping goods and is a large military presence to keep people out of the lands without proper documentation.   
+     -  **Population**: 40,000
+  -  **Krebus** (*Richmond, VA*):  Military base of the empire and small trading town side of the base. 
+     -  **Population**: 30,000
+  -  **Entoding** (*Washington, DC*): Once great battlefield of Titan War were many human lives were lost. Now large statues honor the men and women that lost there lives defending the Echor empire.  This is the main "clensing" location for arcane users and rumored to have a secrete labitory that experments on arcane users caught by the government. 
+     -  **Population**: 20,000
+  -  **Youver** (*Baltimore, MD*): Port city with large navel base of the empire.  This was the original capital of the Echor empire, but a new castle was built in Echor when the great war almost destroyed the Castle Dunark.  The King stays in this castle from time to time in the spring months once travel is possible from the thaw. 
+     -  **Population**: 80,000
+  -  **Clachester** (*Pittsburg, PA*): Large mining and manufactoring city that creates weapons and armor for the empire. 
+     -  **Population**: 40,000
+  -  **Zroit** (*Philadelphia, PA*):  
+     -  **Population**: 50,000
+  -  **Generos** (*New Brunswick, NJ*):  
+     -  **Population**:  
+  -  **Echor** (*New York, NY*): Capital City of the Echor empire and home of Castle Echor (Long Island).  Very large military base and navel presence.  
+     -  **Population**: 950,000 
+  -  **Eboracum** (*Buffalo, NY*): City ran by the Kings brother Prince Andrew Danavrious and his wife Princess Sarah Danavrious.  This region is very cold and it's rumored the King sent his brother here so he wouldn't have to see him anymore. 
+     -  **Population**: 20,000 
+  -  **Veii** (*Rochester, NY*): City ran by the Kings sister Princess Jennifer her wife Brenda  Danavrious.  Another region that is believed he sent his sibiling out to so he could keep them close enough to watch. 
+     -  **Population**: 15,000 
+  -  **Principa** (*Syracuse, NY*): Large military base to the north. 
+     -  **Population**: 40,000 
+  -  **Caprae** (*St. Johnsbury, VT*): 
+     -  **Population**: 5,000 
+  -  **Odessus** (*Littleton, NH*): 
+     -  **Population**: 5,000 
+  -  **Salernum** (*Manchester, NH*): 
+     -  **Population**: 20,000 
+  -  **Brivale** (*Boston, MA*): 
+     -  **Population**: 80,000 
+  -  **Drotgas** (*Springfield, MA*): 
+     -  **Population**: 20,000 
+  -  **Amourion** (*Hartford, CT*): 
+     -  **Population**: 40,000 
+
+## Dwarven/Man Giants 
+---------------------
+- **Description**:  Dwarven and Man Giants region is part of the frozen north and considered the homeland of the large Golaith and Dwarves.  The Dwarves mostly keep to themselves and only come out to trade with the Elves and dispise humans, specifically anyone from the Echor Empire. 
+- **Primary Races**: Dwarves, Goliath, Orc, Gnomes
+- **Secondary Races**: All other races that are crazy enough to live in such a harsh environment.
+- **Original States**: Montana, Saskatchewan, Manitoba, Ontario, parts of the Upper Penisula of Michigan
+- **Capital City**: Donnar Mugdor (Calumet, MI)
+- **Cities**: 
+  -  **Birladur** (*Missoula, MO*): Small village of Golaith and Humans. 
+     -  **Population**: 10,000
+  -  **Kigholur** (*Helena, MO*): Small village of Golaith, Humans, Orc, and Tabaxi.
+     -  **Population**: 15,000
+  -  **Delwohrum** (*Agency, MO*): Dwarven outpost 
+     -  **Population**: Unknown 
+  -  **Delwohrum** (*Agency, MO*): Dwarven outpost 
+     -  **Population**: Unknown 
+  -  **Helgavatni** (*Saskatoon, Saskatchewan*): Dwarven outpost 
+     -  **Population**: Unknown 
+  -  **Mannafallsbrekka** (*Regina, Saskatchewan*): Dwarven outpost 
+     -  **Population**: Unknown 
+  -  **Groeningr** (*Winnipeg, Manitoba*): Small village trade town 
+     -  **Population**: 10,000 
+  -  **Skruor** (*Thunderbay, Ontario*): Small village trade town of Golaith, Dwarves, and Humans
+     -  **Population**: 15,000 
+  -  **Ycepeak** (*Moosonee, Ontario*):  
+     -  **Population**: Unknown 
+  -  **Borngrin** (*Sudbury, Ontario*):  
+     -  **Population**: 12,000 
+  -  **Berufjoror** (*Montreal, Ontario*): Trade city created from Dwarven Outpost
+     -  **Population**: 20,000 
+  -  **Kigelduhr** (*Ottawa, Ontario*):  
+     -  **Population**: 10,000 
+  -  **Battatan** (*Toronto, Ontario*): Trade city  with Golaith, Humans, Dwarves, and Tabaxi
+     -  **Population**: 20,000 
+  -  **Cristalvale** (*Quebec City, Ontario*): Large port city
+     -  **Population**: 30,000 
+
+ ## Frozen North
+---------------------
+- **Description**:  Much is not known of this region due to the harsh weather and the lack of communications with town folk. 
+- **Primary Races**: Humans, Elves, Dwarves, Goliath, Orc, Gnomes, Halfings, Tabaxi, Dragonborn
+- **Secondary Races**: All other races that are crazy enough to live in such a harsh environment.
+- **Original States**: Quebec, Newfoundland, Alberta, British Columbia, Yukon, Northwest Territories, Nunavut, New Brunswick, Prince Edward Island, Nova Scotia, and Alaska
+- **Capital City**: None 
+- **Cities**: 
+  -  **Linfait** (*Kelowna, BC*): 
+     -  **Population**: 2,000
+  -  **Dug Durahl** (*Kamloops, BC*): Dwarven Outpost 
+     -  **Population**: Unknown 
+  -  **Gintorum** (*Edmonton, Alberta*): 
+     -  **Population**: 1,000
+  -  **Hogtodir** (*Calgary, Alberta*): 
+     -  **Population**: 5,000
+  -  **Barnlodar** (*Bathurst, New Brunswick*):  Small fishing town and port 
+     -  **Population**: 1,000
+  -  **Flaike** (*Miramichi, New Brunswick*):  Small fishing town and port 
+     -  **Population**: 1,200
+  -  **Shiverfell** (*Federicton, New Brunswick*): Small town 
+     -  **Population**: 800
+  -  **Thawnaw** (*Saint John, New Brunswick*): Small port and fishing town 
+     -  **Population**: 2,000
