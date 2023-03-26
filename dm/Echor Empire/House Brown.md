@@ -28,7 +28,7 @@ House Brown rules over the territory of Pennsylvania. Their ancestral home, Keys
 
 ---------
 
-## Foster
+## Foster Family
 
 - **Edward Foster**: father of Duchesss Emily Brown (Foster).  He is in his late 60's.  Edward is a ruggedly handsome man with a thick head of silver hair and piercing green eyes. He is a successful businessman who made his fortune in New York in the shipping industry. He is known for his sharp wit and no-nonsense approach to life.  He was good friends with Royal Duke Henry Argentus.
 
