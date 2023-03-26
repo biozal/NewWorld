@@ -14,8 +14,6 @@ House Adams rules Massachusetts, New Hampshire, Maine, Vermont, Connecticut, and
 
   - **Lord James Adams**: He is Lord Michael's youngest son, in his late teens. He is a cute young man with curly brown hair and piercing blue eyes. He is currently unmarried.
 
----------
-
 ## House Adams
 
 
@@ -43,8 +41,6 @@ All of Lord Michael's family members are all influential members of the royal co
 - **Lady Caroline Carney (Adams) of Weston**: She is Lord Michael's older sister, in her late 50s. She is a stunning beauty with long curly blonde hair and bright blue eyes. She is known for her love of art and has been known to create beautiful paintings and sculptures. She is married to Lord Conrad of Weston.
 
   - **Lord Conrad Carney of Weston**: Husband of Lady Caroline of Weston.  He is in his late 50s. Lord Conrad is a portly man with short brown hair and piercing blue eyes. They have two children: Lady Margaret and Lord Tyler.
-
----------
 
 ## Kent Family (Lady Elizabeth's family)
 
