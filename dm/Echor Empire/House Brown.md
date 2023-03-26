@@ -10,8 +10,6 @@ House Brown rules over the territory of Pennsylvania. Their ancestral home, Keys
 
   - **Lady Amber Brown**: She is Duke Phillip and Duchess Emily's daughter, in her late teens. She is a stunning beauty with long curly brown hair and soft brown eyes. She is known for her love of fashion and has been known to be quite skilled at sewing and embroidery.
 
-----------------------------------------------------------------------------
-
 ## House Brown
 
 - **Duke William Brown**: father of Duke Phillip Brown.  William Brown is a tall, imposing figure with piercing blue eyes and a strong jawline. He is a former military man who served in the United States Army for over 20 years before retiring to focus on his family's business interests. He is known to be a tough but fair leader who values loyalty and discipline above all else.  William died when he was in his mid 70's.
@@ -25,8 +23,6 @@ House Brown rules over the territory of Pennsylvania. Their ancestral home, Keys
 - **John Hastings**:  Brother of Duchess Margaret Brown and uncle of Duke Phillip Brown.  He is 70 years old.  John Hastings is a tall, lanky man with a crooked smile and a mischievous twinkle in his eye. He is a retired diplomat.  He is known for his love of adventure and his gift for storytelling.
 
 - **Caroline Richards (Hastings)**: Sister of Duchess Margaret Brown and aunt of Duke Phillip Brown.  She is in her late 60's.  She is a regal woman with a commanding presence and a sharp mind.  Her husband disappeared 20 years ago.   She hasn't remarried.
-
----------
 
 ## Foster Family
 
