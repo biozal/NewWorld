@@ -69,14 +69,6 @@ Lord William Beaumont: He is Victoria's father, now deceased. He was a tall and 
 
 Lady Margaret Beaumont: She is Victoria's mother, now deceased. She was a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom.
 
-Lord Richard Beaumont: He is Victoria's older brother, in his early 50s. He is tall and lean with short black hair and piercing green eyes. He is a skilled warrior and has been known to lead armies into battle.
-
-Lady Margaret Beaumont: She is Victoria's younger sister, in her late 30s. She is short and curvy with long curly blonde hair and bright blue eyes. She is known for her quick wit and sense of humor.
-
-Lord William Beaumont: He is Victoria's younger brother, in his mid-30s. He is tall and muscular with short brown hair and piercing blue eyes. He is a skilled politician and has been known to use his influence to gain power and wealth.
-
-Lady Isabella Beaumont: She is Victoria's youngest sister, in her early 20s. She is tall and slim with long curly brown hair and soft brown eyes. She is a talented musician and has been known to perform at royal events. She is currently unmarried but has been rumored to be courted by Prince Henry.
-
 Queen Victoria's uncles and aunts, along with their spouses, are:
 
 Lord Edward of York: He is Victoria's uncle and the older brother of her father. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Anne of York, who is also in her late 70s. Lady Anne is a petite woman with short curly brown hair and soft brown eyes.
