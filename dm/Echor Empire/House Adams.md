@@ -16,9 +16,8 @@ House Adams rules Massachusetts, New Hampshire, Maine, Vermont, Connecticut, and
 
 ---------
 
-# House Adams
+## House Adams
 
----------
 
 All of Lord Michael's family members are all influential members of the royal court and have played important roles in the kingdom's history.
 
