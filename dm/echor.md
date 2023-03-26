@@ -23,15 +23,14 @@ The king's siblings are:
 Queen Victoria's maiden name is Beaumont. Her siblings are:
 
 - **Lord Richard Beaumont**: He is Victoria's older brother, in his early 50s. He is tall and lean with short black hair and piercing green eyes. He is a skilled warrior and has been known to lead armies into battle.  
-- **Lady Constance Beaumont**:  Wife of Lord Richard Beaumont, who is in her late 20s. Lady Constance is a striking beauty with long black hair and bright green eyes. She comes from a noble family that has fallen on hard times and married Lord Richard Beaumont for his wealth and status. She is known to be cold and calculating, with little regard for anyone other than herself.  Lady Constance and Lord Richard Beaumont have three children:
+
+- **Lady Constance Beaumont**:  Wife of Lord Richard Beaumont, who is in her late 20s. Lady Constance is a striking beauty with long black hair and bright green eyes. She comes from a noble family that has fallen on hard times and married Lord Richard Beaumont for his wealth and status. She is known to be cold and calculating, with little regard for anyone other than herself.  Lady Constance is having an affair with a young knight named Sir William Blackwood, who is under Lord Edward Harrington's command. Sir William is in his mid-20s and is tall and muscular with short brown hair and piercing blue eyes. He is a skilled warrior and has been known to be reckless and impulsive in battle. His affair with Lady Constance is a closely guarded secret, as it could have severe consequences for both of them if it were to be discovered.  Lady Constance and Lord Richard Beaumont have three children:
 
   - **Lord Charles Beaumont**: He is their oldest son, in his early teens. He is tall and lean with short blonde hair and bright blue eyes. He is a skilled archer and has been known to win tournaments.
 
   - **Lady Sophia Beaumont**: She is their oldest daughter, in her early teens. She is a stunning beauty with long curly brown hair and soft brown eyes. She is known for her kindness and compassion towards others.
 
-  - **Lord James Beaumont**: He is their youngest son, in his early childhood. He is a cute little boy with curly blonde hair and bright green eyes. He is adored by his family and the people of the kingdom.
-
-Lady Constance is having an affair with a young knight named Sir William Blackwood, who is under Lord Edward Harrington's command. Sir William is in his mid-20s and is tall and muscular with short brown hair and piercing blue eyes. He is a skilled warrior and has been known to be reckless and impulsive in battle. His affair with Lady Constance is a closely guarded secret, as it could have severe consequences for both of them if it were to be discovered.
+  - **Lord James Beaumont**: He is their youngest son, in his early childhood. He is a cute little boy with curly blonde hair and bright green eyes. He is adored by his family and the people of the kingdom, although he is not the son of Lord Richard Beaumont, which he does not know or realize.
 
 - **Lady Margaret Harrington (Beaumont)**: She is Victoria's older sister, in her late 30s. She is short and curvy with long curly blonde hair and bright blue eyes. She is known for her quick wit and sense of humor.  Lady Margaret Beaumont is married to Lord Edward Harrington, who is in his early 40s. 
 
