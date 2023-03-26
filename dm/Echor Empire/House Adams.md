@@ -1,5 +1,7 @@
 # House Adams of Boston
 
+House Adams rules Massachusetts, New Hampshire, Maine, Vermont, Connecticut, and Rhode Island.  Castle Greystone is located on the coast of Boston and is a large naval base used for the empire.  
+
 - **Lord Michael Adams**: He is the head of the family, in his mid-50s. He is a tall and lean man with short brown hair and bright green eyes. He is a skilled craftsman and has been known to create beautiful pieces of art and furniture.
 
 - **Lady Elizabeth Adams (Kent)**: She is Lord Michael's wife, in her mid-40s. She is a petite woman with short curly blonde hair and soft brown eyes. She is known for her love of nature and has been known to create beautiful gardens and parks.
@@ -11,6 +13,10 @@
   - **Lady Sophia Adams**: She is Lord Michael's younger daughter, in her early 20s. She is a tall and slender woman with long curly brown hair and soft brown eyes. She is a talented musician and has been known to perform at royal events. She is currently unmarried.
 
   - **Lord James Adams**: He is Lord Michael's youngest son, in his late teens. He is a cute young man with curly brown hair and piercing blue eyes. He is currently unmarried.
+
+---------
+
+# House Adams
 
 ---------
 
@@ -41,7 +47,7 @@ All of Lord Michael's family members are all influential members of the royal co
 
 ---------
 
-## Kent (Lady Elizabeth's family)
+## Kent Family (Lady Elizabeth's family)
 
 - **William Kent of Weston**: He is Lady Elizabeth's father, in his late 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He was known for his military prowess and was a respected general in the kingdom's army. He passed away several years ago.
 
