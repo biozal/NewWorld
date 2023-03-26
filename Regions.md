@@ -4,109 +4,93 @@ The following regions break down the current structure of the lands along with w
 
 ## Dór -o sídh
 --------------
-- **Description**:  High Elves from the old world sacred home. The region is also the name of the capital city of the same name.  This region is governed by the councils of each city and band together for the betterment of all races and nature.  
+- **Description**:  High Elves from the old world sacred home.  This region is governed by the councils of each city and band together for the betterment of all races and nature.  
 - **Primary Races**:  Elves, Half-Elves, Human, Halfings, Tabaxi, Satyr, Leonin, Firblog
 - **Secondary Races**:  Dwarves, Gnomes, Kenku, Kobold, Dragonborn, Tieflings, Orc, Aarakocra, Aasimar, Goblin, Hobgoblin, Triton, Tortle, Owlfolk, Rabbitfolk
-- **Population**:  > 450,000 
-- **Original States**: Washingon, Oregon, California
-- **Capital City**: Dór -o sídh (Seattle) 
+- **Original States**: Washingon, Oregon, California, Idaho, Nevada, parts of Arizona, parts of New Mexico
+- **Capital City**: Seattle
 - **Cities**: 
-  -  **Dor-o sidth** (*Seattle, WA*):  Capital City
-     -  **Population**:  ~ 150,000
-  -  **Silverport** (*Tacoma, WA*):  Port trading city 30 miles out of the capital
-     -  **Population**:  ~ 30,000
-  -  **Laug Emel** (*Vancover, BC*): Most northern city of elves.  This port city has most races in the lands living in it and is a mixing pot of "tough" people to survive the ever changing weather of the region.  
+  -  **Seattle, WA**:  Capital City
+     -  **Population**:  ~ 500,000
+  -  **Tacoma, WA**:  Port trading city 30 miles out of the capital
+     -  **Population**:  ~ 60,000
+  -  **Vancover, BC**: Most northern city of elves.  This port city has most races in the lands living in it and is a mixing pot of "tough" people to survive the ever changing weather of the region.  
      -  **Population**:  ~ 80,000
-  -  **Asve Serin** (*Kennewick, WA*):  Small druid town made of Elves, Half-Elves, Halfings, Satyr, and Tabaxi
-     -  **Population**:  ~ 500
-  -  **Skal** (*Spokane, WA*):  Last city of the Golaith barbarians.  Very tribal but will trade with outsiders.  They have olympics every 8 seasons to crown the strongest of the lands.
+  -  **Kennewick, WA**:  Small druid town made of Elves, Half-Elves, Halfings, Satyr, and Tabaxi
      -  **Population**:  ~ 800
-  -  **Y'aththemar** (*Portland, OR*):  Port city of fishermen and trappers (rangers).  Training location for the forest stockers (rangers). 
-     -  **Population**:  ~ 30,000 
-  -  **Oceanforest** (*Oceanside, OR*):  Small port town known for it's small group of big seas fishmen that brave the ocean to harvest large fish from the ocean.
-     -  **Population**:  ~ 5,000 
-  -  **Unyellenor** (*Salem, OR*):  Small farmers town off the long road to Milui Nur Tul.  Several inns and shops sell to travelers.
-     -  **Population**:  ~ 100 
-  -  **Fafdell**:  Monk monistary in the woods.
-     -  **Population**:  unknown 
-  -  **Uyath Anore** (*Eugene, OR*):  Small down of half-elves and halfings on the long road to Milui Nur Tul.  Simple people that don't care for larger cities and people from them.  They mostly keep to themselves.
-     -  **Population**:  ~ 1,000 
-  -  **Kymesriin** (*Medford, OR*):  Small town on the long road to Milui Nur Tul.  
-     -  **Population**:  ~ 750 
-  -  **Thundertree** (*Redding, CA*): City in the large trees north of Milui Nur Tul.   
-     -  **Population**:  ~ 25,000 
-  -  **Highmoon** (*Sacramento, CA*): City with a river that flows through it.  Has the only known road to the town of Glilas.  An accient Dwarven fortrest was rcently discovered and the dwarves have a strange minerals that they use to create weapons and armor that they are willing to trade.  
-     -  **Population**:  ~ 15,000 
-  -  **Milui Nur Tul** (*San Francisco, CA*): Very large spread out port town with a large population of Elves and Tabaxi.  Rumored to be the original location that the dor nip plant was found in and recently rare minerals have been discovered in the mountains to the north east.  Large ships have come in to start carrying goods and bring people also interested in finding more minerals in the mountains to the north. 
+  -  **Spokane, WA**:  Last city of the Golaith barbarians.  Very tribal but will trade with outsiders.  They have olympics every 8 seasons to crown the strongest of the lands.
+     -  **Population**:  ~ 500
+  -  **Portland, OR**:  Port city of fishermen and trappers (rangers).  Training location for the forest stockers (rangers). 
      -  **Population**:  ~ 80,000 
-  -  **Miog In nen** (*Big Sur, CA*): Small coastal town known for it's dangerous winding mountain roads.  
-     -  **Population**:  ~ 1,000 
-  -  **Urui miog** (*Fresno, CA*): Small town known for it's beautiful views of mountains. 
-     -  **Population**:  ~ 1,000 
-  -  **Miog nor-thúl** (*Los Angeles, CA*): Large port city that is very spread out with beautiful views of mountains.  Long recorded as the original location that the Elves from the old world met the Tabaxi race from the south. 
-     -  **Population**:  ~ 90,000 
-
-## Catnip 
----------
-- **Description**: The homeland of the western tribe of Tabaxi people whom migrated from the Southlands over a 1,000 years ago.  These tribal groups band together and will defend there new homes from any and all they consider a threat.
-- **Primary Races**:  Tabaxi, Leonin 
-- **Secondary Races**:  Elves, Kenku, Kobold, Dragonborn, Tieflings, Aarakocra, Aasimar, Goblin 
-- **Population**:  > 120,000 
-- **Original States**: California, Baja California (Mexico), Texas
-- **Capital City**: Miog othrond (Ensenada), Chataire (Corpus Christi, TX)  
-- **Cities**: 
-  -  **Laug nen beavtvi** (*San Diego, CA*): Large port city with the primary race being Tabaxi. 
-     -  **Population**:  ~ 40,000 
-  -  **firn radag** (*Tijuana, Mexico*): The pirate port city with a large amount of scum.  Considered a very dangerous place.
-     -  **Population**:  ~ 15,000 
-  -  **Miog othrond** (*Ensenada, Mexico*): Southern Tabaxi captial city.  This port city is surrounded by large hills.  The tabaxi settled here due to the large supply of fish and it's large hills that has many defensive towers built into it. 
-     -  **Population**:  ~ 60,000 
-  -  **Zhabinava** (*Amarillo, TX*):  Northern most town famous location of the peace treaty signing between the Tabaxi and Orcs. 
+  -  **Oceanside, OR**:  Small port town known for it's small group of big seas fishmen that brave the ocean to harvest large fish from the ocean.
      -  **Population**:  ~ 5,000 
-  -  **Inobianice** (*Lubbock, TX*): Small town 
-     -  **Population**:  ~ 500 
-  -  **Tymanther** (*Midland, TX*): Small town with mixture of Tabaxi and Dragonborn
-     -  **Population**:  ~ 5000 
-  -  **Lipcaleni** (*Dallas, TX*): Medium size town on the road to the Orc capital city of Ogogh. 
+  -  **Salem, OR**:  Small farmers town off the long road to San Francisco.  Several inns and shops sell to travelers.
+     -  **Population**:  ~ 100 
+  -  **Eugene, OR**:  Small down of half-elves and halfings on the long road to San Francisco.  Simple people that don't care for larger cities and people from them.  They mostly keep to themselves.
+     -  **Population**:  ~ 1,000 
+  -  **Medford, OR*:  Small town on the long road to San Francisco.  
+     -  **Population**:  ~ 750 
+  -  **Redding, CA**: City in the large trees north of San Francisco.   
      -  **Population**:  ~ 25,000 
-  -  **Oneciu** (*Austin, TX*): Abandoned town rumorered to be cursed 
-     -  **Population**:  unknown 
-  -  **Bubani** (*San Antonio, TX*): Abandoned town rumorered to be cursed 
-     -  **Population**:  unknown 
-  -  **Chataire** (*Corpus Christi, TX*): Tabaxi captial city of the east.  Large port city that is used to trade between the north and east most cities. 
-     -  **Population**:  80,000 
-  -  **Hailodar** (*Houston, TX*): Northern trade town with many warez from Chataire. 
-     -  **Population**:  20,000 
-  -  **Kihong** (*Matamoros, Mexico*): Tabaxi military base.
-     -  **Population**:  unknown 
+  -  **Sacramento, CA**: City with a river that flows through it.  Has the only known road to the town of Reno, NV.  An accient Dwarven fortrest was rcently discovered and the dwarves have a strange minerals that they use to create weapons and armor that they are willing to trade.  
+     -  **Population**:  ~ 15,000 
+  -  **San Francisco, CA**: Very large spread out port town with a large population of Elves and Tabaxi.  Rumored to be the original location that the dor nip plant was found in and recently rare minerals have been discovered in the mountains to the north east.  Large ships have come in to start carrying goods and bring people also interested in finding more minerals in the mountains to the north. 
+     -  **Population**:  ~ 80,000 
+  -  **Big Sur, CA**: Small coastal town known for it's dangerous winding mountain roads.  
+     -  **Population**:  ~ 1,000 
+  -  **Fresno, CA**: Small town known for it's beautiful views of mountains. 
+     -  **Population**:  ~ 1,000 
+  -  **Los Angeles, CA**): Large port city that is very spread out with beautiful views of mountains.  Long recorded as the original location that the Elves from the old world met the Tabaxi race from the south. 
+     -  **Population**:  ~ 650,000 
+  -  **San Diego, CA**: Southern Tabaxi captial city.  Large port city with the primary race being Tabaxi. 
+     -  **Population**:  ~ 110,000 
+  -  **Tijuana, Mexico**: The pirate port city with a large amount of scum.  Considered a very dangerous place.
+     -  **Population**:  ~ 15,000 
+  -  **Ensenada, Mexico**: This port city is surrounded by large hills.  The tabaxi settled here due to the large supply of fish and it's large hills that has many defensive towers built into it. 
+     -  **Population**:  ~ 60,000 
+  -  **Phoenix, AZ**: Small desert town on the road to the east. 
+     -  **Population**:  ~ 5,000
+  -  **Glidz** (*Tuscon, AZ*): Small desert town on the road to the east. Known for extremely high price of water.
+     -  **Population**:  ~ 2,000
+  -  **Albuquerque, NM**: Small town on path to Ae Ville.   
+     -  **Population**:  5,000 
+  -  **Santa Fe, NM**: Poor town of clay buildings. 
+     -  **Population**:  ~ 1,000 
 
 ## Tyon Desert
 --------------
 - **Description**:  Large desert like area of dry land long ruled by the red dragons before the time of the new gods.  This is the long rumored birth place of the Dragonborn race of people.  Known to be a dangerous place to travel, many try to use only known paths through the rough terrian and stock up well on supplies in the very small amount of towns on the road to the east.  This is one of three known routes to the east and the only route that doesn't go through Orc country.
 - **Primary Races**:  Dragonborn, Tiefling, Human, Kobold, Tieflings, Goblin, Bugbear, Hobgoblin 
 - **Secondary Races**:  Elves, Kenku, Aarakocra, Aasimar, Halfling
-- **Population**:  > 80,000 
-- **Original States**: Nevada, Arizona, New Mexico, Mexico 
-- **Capital City**: None 
+- **Original States**: Nevada, Mexico, Texas
 - **Cities**: 
-  -  **Glilas** (*Reno, NV*): last known town before the large desert to the east and north. 
-     -  **Population**:  < 5,000 
-  -  **Ugerth** (*Los Vegas, NV*): The lawless desert city which some have recently discovered ancient artifacts.  Only known route to the Salt region with a road that leads to Pata. Has many over priced shops.
-     -  **Population**:  < 10,000 
-  -  **Legiozów** (*Phoenix, AZ*): Small desert town on the road to the east. 
-     -  **Population**:  ~ 5,000
-  -  **Glidz** (*Tuscon, AZ*): Small desert town on the road to the east. Known for extremely high price of water.
-     -  **Population**:  ~ 2,000
-  -  **Dobhy** (*Hermosillo, Mexico*): Rumored city of Dragonborn. 
-     -  **Population**:  unkown 
-  -  **Lajorog** (*Las Cruces, NM*):  Small, dangerous  trade city with paths to the east, north, and south.  Many bandits are known to hi-jack carts in this region.
+  -  **Amarillo, TX**:  Northern most town famous location of the peace treaty signing between the Tabaxi and Orcs. 
      -  **Population**:  ~ 5,000 
-  -  **Uricanina** (*Ciudad Juárez, Mexico*):  Abandoned city that is considered cursed. 
+  -  **Lubbock, TX**: Small town 
+     -  **Population**:  ~ 500 
+  -  **Midland, TX**: Small town with mixture of Tabaxi and Dragonborn
+     -  **Population**:  ~ 5000 
+  -  **Dallas, TX**: Medium size town on the road to the Orc capital city of Ogogh. 
+     -  **Population**:  ~ 25,000 
+  -  **Austin, TX**: Abandoned town rumorered to be cursed 
+     -  **Population**:  unknown 
+  -  **San Antonio, TX**: Abandoned town rumorered to be cursed 
+     -  **Population**:  unknown 
+  -  **Corpus Christi, TX**: Tabaxi captial city of the east.  Large port city that is used to trade between the north and east most cities. 
+     -  **Population**:  80,000 
+  -  **Houston, TX**: Northern trade town with many warez from Chataire. 
+     -  **Population**:  20,000 
+  -  **Reno, NV**: last known town before the large desert to the east and north. 
+     -  **Population**:  < 5,000 
+  -  **Los Vegas, NV**: The lawless desert city which some have recently discovered ancient artifacts.  Only known route to the Salt region with a road that leads to Pata. Has many over priced shops.
+     -  **Population**:  < 10,000 
+  -  **Hermosillo, Mexico**: Rumored city of Dragonborn. 
      -  **Population**:  unkown 
-  -  **Adviizerske** (*Albuquerque, NM*): Small town on path to Ae Ville.   
-     -  **Population**:  5,000 
-  -  **Kashalchyn** (*Santa Fe, NM*): Poor town of clay buildings. 
-     -  **Population**:  ~ 1,000 
+  -  **Las Cruces, NM**:  Small, dangerous  trade city with paths to the east, north, and south.  Many bandits are known to hi-jack carts in this region.
+     -  **Population**:  ~ 5,000 
+  -  **Ciudad Juárez, Mexico**:  Abandoned city that is considered cursed. 
+     -  **Population**:  unkown 
+
 
 ## Mixed Races
 --------------
@@ -115,92 +99,92 @@ The following regions break down the current structure of the lands along with w
 - **Original States**: Utah, Idaho, Wyoming, Minnesota*, Iowa*, Missouri*, Wisconsin, Michigan, Illinios, Ohio, Maine
 - **Capital City**: None 
 - **Cities**: 
-  -  **Pata** (*St. George, UT*): 
+  -  **St. George, UT**: 
      -  **Population**:  
-  -  **Kirkusrah** (*Beaver, UT*): 
+  -  **Beaver, UT**: 
      -  **Population**:  
-  -  **Al-Miriyah** (*Salt Lake City, UT*): 
+  -  **Salt Lake City, UT**): 
      -  **Population**:  
-  -  **Azanawat** (*Jackson, WY*): 
+  -  **Jackson, WY**: 
      -  **Population**:  
-  -  **Faghada** (*Casper, WY*): 
+  -  **Casper, WY**: 
      -  **Population**:  
-  -  **Nebiotpasa** (*Pacatello, ID*):  
+  -  **Pacatello, ID**:  
      -  **Population**:  
-  -  **Deima** (*Idaho Falls, ID*):  
+  -  **Idaho Falls, ID**:  
      -  **Population**:  
-  -  **Nabafag** (*Twin Falls, ID*):  
+  -  **Twin Falls, ID**:  
      -  **Population**:  
-  -  **Barenura** (*Boise, ID*):  
+  -  **Boise, ID**:  
      -  **Population**:  
-  -  **Slobonii** (*Grand Junction, CO*):  
+  -  **Grand Junction, CO**:  
      -  **Population**:  
-  -  **Ae Ville** (*Denver, CO*):  
+  -  **Denver, CO**:  
      -  **Population**:  
-  -  **Falluruk** (*Fort Collins, CO*):  
+  -  **Fort Collins, CO**:  
      -  **Population**:  
-  -  **Panraolt** (*Colorado Springs, CO*):  
+  -  **Colorado Springs, CO**:  
      -  **Population**:  
-  -  **Panraolt** (*Colorado Springs, CO*):  
+  -  **Colorado Springs, CO**:  
      -  **Population**:  
-  -  **Dmirtau** (*Eau Claire, WI*):  
+  -  **Eau Claire, WI**:  
      -  **Population**:  
-  -  **Elvande** (*Madison, WI*):  
+  -  **Madison, WI**:  
      -  **Population**:  
-  -  **Penzio** (*Milwaukee, WI*):  
+  -  **Milwaukee, WI**:  
      -  **Population**:  
-  -  **Capelle** (*Appleton, WI*):  
+  -  **Appleton, WI**:  
      -  **Population**:  
-  -  **El Sugro** (*Green Bay, WI*):  
+  -  **Green Bay, WI**:  
      -  **Population**:  
-  -  **Sayalapa** (*Iron Mountain, MI*):  
+  -  **Iron Mountain, MI**:  
      -  **Population**:  
-  -  **Donnar Mugdor** (*Calumetg, MI*):  
+  -  **Calumet, MI**:  
      -  **Population**:  
-  -  **Frozen Port** (*Saulte Ste Marie, MI*):  
+  -  **Saulte Ste Marie, MI**:  
      -  **Population**:  
-  -  **Noliel** (*Mackinaw City, MI*):  
+  -  **Mackinaw City, MI**:  
      -  **Population**:  
-  -  **Zhentil Keep** (*Traverse City, MI*):  
+  -  **Traverse City, MI**:  
      -  **Population**:  
-  -  **Telid** (*Muskegon, MI*):  
+  -  **Muskegon, MI**:  
      -  **Population**:  
-  -  **Detoxit** (*Detroit, MI*):  
+  -  ***Detroit, MI**:  
      -  **Population**:  
-  -  **Torez** (*Chicago, IL*):  
+  -  **Chicago, IL**:  
      -  **Population**:  
-  -  **Akerton** (*Springfield, IL*):  
+  -  **Springfield, IL**:  
      -  **Population**:  
-  -  **Nerda** (*Indianapolis, IN*):  
+  -  **Indianapolis, IN**:  
      -  **Population**:  
-  -  **Badavilés** (*Fort Wayne, IN*):  
+  -  *0*Fort Wayne, IN**:  
      -  **Population**:  
-  -  **Bluugate** (*Columbus, OH*):  
+  -  **Columbus, OH**:  
      -  **Population**:  
-  -  **Aternum** (*Cincinnati, OH*):  
+  -  **Cincinnati, OH**:  
      -  **Population**:  
-  -  **Raphae** (*Portland, ME*):  
+  -  **Portland, ME**:  
      -  **Population**:  
-  -  **Wolfdenn** (*Bangor, ME*):  
+  -  **Bangor, ME**:  
      -  **Population**:  
-  -  **Wolfdenn** (*Bar Harbor, ME*):  
+  -  **Bar Harbor, ME**:  
      -  **Population**:  
 
 ### Contested Cities at War
 ---------------------------
-  -  **Myversk** (*Minneapolis, MN*):  
+  -  **Minneapolis, MN**:  
      -  **Population**:  
-  -  **Blagoveyungri** (*Rochester, MN*):  
+  -  **Rochester, MN**:  
      -  **Population**:  
-  -  **Gudakh** (*Des Moines, IA*):  
+  -  **Des Moines, IA**:  
      -  **Population**:  
-  -  **Dhore Lu** (*Iowa City, IA*):  
+  -  **Iowa City, IA**:  
      -  **Population**:  
-  -  **Ogkuccerd** (*Columbia, MO*):  
+  -  **Columbia, MO**:  
      -  **Population**:  
-  -  **Epeutross** (*St. Louis, MO*):  
+  -  **St. Louis, MO**:  
      -  **Population**:  
-  -  **Oxshear** (*Springfield, MO*):  
+  -  **Springfield, MO**):  
      -  **Population**:  
 
 ## Orcs 
