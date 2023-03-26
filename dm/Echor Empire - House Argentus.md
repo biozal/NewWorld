@@ -50,3 +50,41 @@ Princess Margaret, Countess of Devon: She is King Alexander's aunt and the young
 Prince George, Duke of Somerset: He is King Alexander's uncle and the younger brother of his father. He is in his mid-60s, with short curly brown hair and bright green eyes. He is known for his love of art and music. He is married to Lady Beatrice of Somerset, who is in her mid-50s. Lady Beatrice is a tall and slender woman with long black hair and piercing blue eyes. They have two children: Lady Margaret and Lord Thomas.
 
 Lady Elizabeth, Countess of Warwick: She is King Alexander's aunt and the younger sister of his mother. She is in her mid-60s, with long curly blonde hair and bright blue eyes. She is known for her grace and elegance. She is married to Lord James of Warwick, who is in his mid-70s. Lord James is a tall and imposing man with short grey hair and piercing blue eyes. They have two children: Lord William and Lady Isabella.
+
+------------
+
+Lord William Beaumont: He is Queen Victoria's father, now deceased. He was a tall and lean man with short brown hair and piercing blue eyes. He was known for his military prowess and was a respected general in the kingdom's army.
+
+Lady Margaret Beaumont: She is Queen Victoria's mother, now deceased. She was a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom.
+
+
+Lord Edward of York: He is Queen Victoria's uncle and the older brother of her father. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Anne of York, who is also in her late 70s. Lady Anne is a petite woman with short curly brown hair and soft brown eyes.
+
+Lady Caroline of York: She is Queen Victoria's aunt and the younger sister of her father. She is in her mid-60s, with short blonde hair and bright green eyes. She is known for her love of animals and her charitable work. She is married to Lord George of York, who is in his mid-60s. Lord George is a portly man with short brown hair and piercing blue eyes.
+
+Lord Thomas of Somerset: He is Queen Victoria's uncle and the younger brother of her mother. He is in his late 50s, with short curly brown hair and bright green eyes. He is known for his love of hunting and fishing. He is married to Lady Mary of Somerset, who is in her early 50s. Lady Mary is a tall and slender woman with long black hair and piercing blue eyes.
+
+Lady Beatrice of Devon: She is Queen Victoria's aunt and the younger sister of her mother. She is in her mid-50s, with long curly blonde hair and bright blue eyes. She is known for her love of fashion and her frequent travels. She is married to Prince George, Duke of Somerset, who is in his mid-60s. Prince George is a lover of art and music, much like his son Lord George of York.
+Lord William Beaumont: He is Victoria's father, now deceased. He was a tall and lean man with short brown hair and piercing blue eyes. He was known for his military prowess and was a respected general in the kingdom's army.
+
+Lady Margaret Beaumont: She is Victoria's mother, now deceased. She was a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom.
+
+Lord Richard Beaumont: He is Victoria's older brother, in his early 50s. He is tall and lean with short black hair and piercing green eyes. He is a skilled warrior and has been known to lead armies into battle.
+
+Lady Margaret Beaumont: She is Victoria's younger sister, in her late 30s. She is short and curvy with long curly blonde hair and bright blue eyes. She is known for her quick wit and sense of humor.
+
+Lord William Beaumont: He is Victoria's younger brother, in his mid-30s. He is tall and muscular with short brown hair and piercing blue eyes. He is a skilled politician and has been known to use his influence to gain power and wealth.
+
+Lady Isabella Beaumont: She is Victoria's youngest sister, in her early 20s. She is tall and slim with long curly brown hair and soft brown eyes. She is a talented musician and has been known to perform at royal events. She is currently unmarried but has been rumored to be courted by Prince Henry.
+
+Queen Victoria's uncles and aunts, along with their spouses, are:
+
+Lord Edward of York: He is Victoria's uncle and the older brother of her father. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Anne of York, who is also in her late 70s. Lady Anne is a petite woman with short curly brown hair and soft brown eyes.
+
+Lady Caroline of York: She is Victoria's aunt and the younger sister of her father. She is in her mid-60s, with short blonde hair and bright green eyes. She is known for her love of animals and her charitable work. She is married to Lord George of York, who is in his mid-60s. Lord George is a portly man with short brown hair and piercing blue eyes.
+
+Lord Thomas of Somerset: He is Victoria's uncle and the younger brother of her mother. He is in his late 50s, with short curly brown hair and bright green eyes. He is known for his love of hunting and fishing. He is married to Lady Mary of Somerset, who is in her early 50s. Lady Mary is a tall and slender woman with long black hair and piercing blue eyes.
+
+Lady Beatrice of Devon: She is Victoria's aunt and the younger sister of her mother. She is in her mid-50s, with long curly blonde hair and bright blue eyes. She is known for her love of fashion and her frequent travels. She is married to Prince George, Duke of Somerset, who is in his mid-60s. Prince George is a lover of art and music, much like his son Lord George of York.
+
+All of Queen Victoria's uncles and aunts are still alive, though some are quite elderly, and all are influential members of the royal court.
