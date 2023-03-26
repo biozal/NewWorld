@@ -11,6 +11,30 @@
 
 ---------
 
+All of Lord Michael's family members are all influential members of the royal court and have played important roles in the kingdom's history.
+
+- **Lord Theodore Adams**: He is Lord Michael's father, now deceased. He was a tall and lean man with short brown hair and piercing blue eyes. He was known for his military prowess and was a respected general in the regions's army.
+
+- **Lady Grace Adams**: She is Lord Michael's mother, now deceased. She was a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom.  She original was from Belmont.
+
+- **Lord Josh of Northborough**: He is Lord Michael's uncle and the older brother of his father. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Rachel of Northborough.
+
+  - **Lady Rachel of Northborough**:  She is married to Lord Josh of Northborough.  She is in her late 70s.
+
+- **Lady Margaret of Needham**: She is Lord Michael's aunt and the younger sister of his mother. She is in her late 60s, with short blonde hair and bright green eyes. She is known for her love of animals and her charitable work. She is married to Lord Louie of Needham.
+
+  - **Lord Louie of Needham**:  he is married to Lady Margaret of Needham.  He is in his mid-60's.
+
+- **Lord Allen, Duke of Weston**: He is Lord Michael's uncle and the younger brother of his father. He is in his mid-60s, with short curly brown hair and bright green eyes. He is known for his love of art and music. He is married to Lady Beatrice of Weston, who is in her mid-50s.
+
+  - **Lady Beatrice of Weston**:  She is married to Lord Allen.  She is in her mid-50s
+
+- **Lady Elizabeth, Countess of Southborough**: She is Lord Michael's aunt and the younger sister of his mother. She is in her mid-60s, with long curly blonde hair and bright blue eyes. She is known for her grace and elegance. She is married to Lord James of Southborough.
+  - **Lord James of Southborough** - Married to Lady Elizabeth.  He is in his mid-70's.
+
+
+---------
+
 - **Lady Caroline of Weston**: She is Lord Michael's older sister, in her late 50s. She is a stunning beauty with long curly blonde hair and bright blue eyes. She is known for her love of art and has been known to create beautiful paintings and sculptures. She is married to Lord Conrad of Weston.
 
 - **Lord Conrad of Weston**: Husband of Lady Caroline of Weston.  He is in his late 50s. Lord Conrad is a portly man with short brown hair and piercing blue eyes. They have two children: Lady Margaret and Lord Tyler.
