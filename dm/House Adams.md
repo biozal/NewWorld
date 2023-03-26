@@ -41,7 +41,7 @@ All of Lord Michael's family members are all influential members of the royal co
 
 ---------
 
-## House Kent (Lady Elizabeth's family)
+## Kent (Lady Elizabeth's family)
 
 - **William Kent of Weston**: He is Lady Elizabeth's father, in his late 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He was known for his military prowess and was a respected general in the kingdom's army. He passed away several years ago.
 
