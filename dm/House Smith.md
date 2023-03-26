@@ -1,5 +1,5 @@
-# House Smith
-## House Smith of Ohio
+# House Smith of Ohio
+
 
 - **Lord Jonathan Smith**: He is the head of the family, in his late 40s. He is a tall and muscular man with short black hair and piercing green eyes. He is a skilled warrior and has been known to win tournaments.
 
