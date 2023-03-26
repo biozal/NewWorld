@@ -39,3 +39,14 @@ Queen Victoria's maiden name is Beaumont. Her siblings are:
 - **Lord William Beaumont**: He is Victoria's younger brother, in his mid-30s. He is tall and muscular with short brown hair and piercing blue eyes. He is a skilled politician and has been known to use his influence to gain power and wealth.
 
 - **Lady Isabella Beaumont**: She is Victoria's youngest sister, in her early 20s. She is tall and slim with long curly brown hair and soft brown eyes. She is a talented musician and has been known to perform at royal events. She is currently unmarried but has been rumored to be courted by Prince Henry.
+
+
+--
+
+Prince Henry, Duke of York: He is King Alexander's uncle and the younger brother of his father. He is in his early 70s, but still maintains a regal bearing. He has short grey hair and bright blue eyes. He is married to Lady Eleanor of York, who is in her early 60s. Lady Eleanor is a petite woman with short curly blonde hair and soft brown eyes. They have two children: Prince Richard and Lady Caroline.
+
+Princess Margaret, Countess of Devon: She is King Alexander's aunt and the younger sister of his mother. She is in her late 60s, with short blonde hair and bright green eyes. She is known for her wit and charm. She is married to Lord William of Devon, who is in his late 60s. Lord William is a portly man with short brown hair and piercing blue eyes. They have two children: Lord Edward and Lady Victoria.
+
+Prince George, Duke of Somerset: He is King Alexander's uncle and the younger brother of his father. He is in his mid-60s, with short curly brown hair and bright green eyes. He is known for his love of art and music. He is married to Lady Beatrice of Somerset, who is in her mid-50s. Lady Beatrice is a tall and slender woman with long black hair and piercing blue eyes. They have two children: Lady Margaret and Lord Thomas.
+
+Lady Elizabeth, Countess of Warwick: She is King Alexander's aunt and the younger sister of his mother. She is in her mid-60s, with long curly blonde hair and bright blue eyes. She is known for her grace and elegance. She is married to Lord James of Warwick, who is in his mid-70s. Lord James is a tall and imposing man with short grey hair and piercing blue eyes. They have two children: Lord William and Lady Isabella.
