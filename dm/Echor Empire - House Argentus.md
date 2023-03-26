@@ -1,4 +1,6 @@
-The region of Echor is ruled by House Argentus
+# House Argentus
+
+## The region of Echor is ruled by House Argentus
 
 - **King Alexander**: He is a ruthless and power-hungry ruler who will stop at nothing to expand his territory. He is in his late 40s, tall and imposing with a muscular build. He has a thick black beard and piercing blue eyes. He is married to Queen Victoria.
 
