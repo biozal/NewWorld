@@ -19,3 +19,13 @@ The king's siblings are:
 - **Prince George**: He is Alexander's younger brother, in his late 30s. He is short and stocky with curly brown hair and bright green eyes. He is a skilled craftsman and has been known to create beautiful pieces of art and architecture.
 
 - **Princess Margaret**: She is Alexander's younger sister, in her early 30s. She is tall and lean with long black hair and bright blue eyes. She is a skilled diplomat and has been known to negotiate treaties and alliances on behalf of the kingdom.
+
+Queen Victoria's maiden name is Beaumont. Her siblings are:
+
+- Lord Richard Beaumont: He is Victoria's older brother, in his early 50s. He is tall and lean with short black hair and piercing green eyes. He is a skilled warrior and has been known to lead armies into battle.
+
+- Lady Margaret Beaumont: She is Victoria's younger sister, in her late 30s. She is short and curvy with long curly blonde hair and bright blue eyes. She is known for her quick wit and sense of humor.
+
+- Lord William Beaumont: He is Victoria's younger brother, in his mid-30s. He is tall and muscular with short brown hair and piercing blue eyes. He is a skilled politician and has been known to use his influence to gain power and wealth.
+
+- Lady Isabella Beaumont: She is Victoria's youngest sister, in her early 20s. She is tall and slim with long curly brown hair and soft brown eyes. She is a talented musician and has been known to perform at royal events. She is currently unmarried but has been rumored to be courted by Prince Henry.
