@@ -47,7 +47,7 @@ All of Lord Michael's family members are all influential members of the royal co
 
   - **Lady Margaret Kent (Kelley) of Weston**: She is Lady Elizabeth's mother, in her mid-70s. She is a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom. She passed away several years ago.
 
-  - **Isabelle Kent of Weston**: She is Lady Elizabeth's aunt and the older sister of her father. She is in her late 70s, with long curly blonde hair and bright blue eyes. Isabelle is known for her love of art and has been known to create beautiful paintings and sculptures.
+- **Isabelle Kent of Weston**: She is Lady Elizabeth's aunt and the older sister of her father. She is in her late 70s, with long curly blonde hair and bright blue eyes. Isabelle is known for her love of art and has been known to create beautiful paintings and sculptures.
   
 - **Patrick Kelley of Weston**: He is Lady Elizabeth's uncle and the older brother of her mother. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Mya Kent of Weston.  Patrick is known for his love of hunting and fishing.
 
