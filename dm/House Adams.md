@@ -39,6 +39,6 @@ All of Lord Michael's family members are all influential members of the royal co
 
 - **Lord Conrad Carney of Weston**: Husband of Lady Caroline of Weston.  He is in his late 50s. Lord Conrad is a portly man with short brown hair and piercing blue eyes. They have two children: Lady Margaret and Lord Tyler.
 
-- **Lord Thoros Collins of Wellesley**: He is Lady Elizabeth's older brother, in his early 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He is a skilled warrior and has been known to lead armies into battle. He is married to Lady Eleanor of Wellesley.
+- **Thoros Collins of Wellesley**: He is Lady Elizabeth's older brother, in his early 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He is a skilled warrior and has been known to lead armies into battle. He is married to  Eleanor Collins of Wellesley.
 
-- **Lady Eleanor Collins of Wellesley** Lady Elenaor is married to Lord Thoros Collins of Wellesley.  She is in her early 60s. Lady Eleanor hails from Wellesley and is a petite woman with short curly blonde hair and soft brown eyes. They have two children: Prince Richard and Lady Caroline.
+- **Eleanor Collins of Wellesley** Lady Elenaor is married to Lord Thoros Collins of Wellesley.  She is in her early 60s. Lady Eleanor hails from Wellesley and is a petite woman with short curly blonde hair and soft brown eyes. They have two children: Prince Richard and Lady Caroline.
