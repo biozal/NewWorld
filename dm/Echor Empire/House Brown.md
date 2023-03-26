@@ -40,8 +40,7 @@ House Brown rules over the territory of Pennsylvania. Their ancestral home, Keys
 
 Nothing is known of Alice Foster.  
 
-
-* Plot Points
+# Plot Points
 
 - Caroline Richards (Hastings) husband was killed by House Brown when it was discovered he was cheating on Caroline.  She was never made aware of this.
 
