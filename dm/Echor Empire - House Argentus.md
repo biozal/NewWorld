@@ -2,7 +2,7 @@ The region of Echor is ruled by House Argentus
 
 - **King Alexander**: He is a ruthless and power-hungry ruler who will stop at nothing to expand his territory. He is in his late 40s, tall and imposing with a muscular build. He has a thick black beard and piercing blue eyes. He is married to Queen Victoria.
 
-- **Queen Victoria**: She is a shrewd and intelligent woman who has managed to maintain her position of power by supporting her husband's ambition. She is in her mid 30s, with long blonde hair and bright green eyes. She is known for her beauty and elegance.
+- **Queen Victoria**: She is a shrewd and intelligent woman who has managed to maintain her position of power by supporting her husband's ambition. She is in her mid 30s, with long blonde hair and bright green eyes. She is known for her beauty and elegance.  She is originally from Virgina, the south most region of the current empire.
 
   - **Prince Henry**: He is the oldest of the royal children, in his mid-20s, and is Alexander and Victoria's firstborn. He is tall and lean with short brown hair and piercing blue eyes. He is a skilled warrior and is known for his bravery on the battlefield. He is currently unmarried but has been rumored to be courting Lady Isabella of Virginia.
 
