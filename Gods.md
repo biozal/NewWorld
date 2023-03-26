@@ -1,57 +1,74 @@
 # New Gods
 
-## Tharnaus
+## Zeus
 
-* **Description**:  God of the sky, ruler of the gods.   Father to all.
+* **Description**:  God of the Sky, Thunder, and King of the Gods
+Zeus reigns as the supreme deity in this pantheon, commanding the skies and wielding powerful thunderbolts. He is the patron of kings, rulers, and justice. His temples often stand on high ground, overlooking their surroundings.
 * **Alignment**:  N
-* **Domain**:  Tempest
+* **Domain**:  Tempest, War, Trickery
 * **Symbol**:  Lighting bolt with Hammer and Clouds
 
-## Tor
+## Hera 
 
-* **Description**:  God of war and strife
-* **Alignment**: CE
-* **Domain**:  War
-* **Symbol**:  Sword
+* **Description**:   Goddess of Marriage, Family, and Queen of the Gods
+Hera is the wife of Zeus and the goddess of marriage, family, and protector of women. She is revered by those seeking to preserve the sanctity of their relationships, and her followers often uphold traditional family values.
+* **Alignment**: N
+* **Domain**: Life, Light, Nature
+* **Symbol**:  Pomegranate
 
-## Athenia
+## Poseidon 
 
-* **Description**:  Goddess of wisdom and civilization
-* **Alignment**:  LG
-* **Domain**:  Knowledge
-* **Symbol**:  Owl
+* **Description**:   God of the sea, earthquakes, and horses.
+* **Alignment**: N
+* **Domain**: Tempest, Nature
+* **Symbol**:  Trident 
 
-## Hadies
+## Demeter 
 
-* **Description**:  God of the death and the underworld
-* **Alignment**:  LE
-* **Domain**:  Death
-* **Symbol**:  Black raven
+* **Description**:   Goddess of agriculture, fertility, and the harves
+* **Alignment**: NG
+* **Domain**: Life, Nature
+* **Symbol**:  Cornucopia 
 
-## Mxyzpixel
+## Athena 
 
-* **Description**:  God of intrigue
-* **Alignment**:  CN
-* **Domain**:  Trickery
-* **Symbol**:  Black cloak
+* **Description**:   Goddess of wisdom, strategy, and warfare. 
+* **Alignment**: LN
+* **Domain**: Knowledge, War
+* **Symbol**:  Shield with an owl on it
 
-## Paltar
+## Apollo 
 
-* **Description**:  God of love and light
-* **Alignment**:  CG
-* **Domain**:  Light
-* **Symbol**:  Star
+* **Description**:   God of music, poetry, prophecy, and the sun
+* **Alignment**: CG
+* **Domain**: Knowledge, Life
+* **Symbol**:  Sun Disk
 
-## Silvanus
+## Artemis 
 
-* **Description**:  God of nature
-* **Alignment**:  C
-* **Domain**:  Nature
-* **Symbol**:  Black Panther
+* **Description**:   Goddess of the hunt, the moon, and childbirth.
+* **Alignment**: CN
+* **Domain**: Nature, Life
+* **Symbol**:  Sun Disk
 
-## Thymisis
+## Ares 
 
-* **Description**:  Goddess of home, family, and life
-* **Alignment**:  NG
-* **Domain**:  Life
-* **Symbol**:  Hearth
+* **Description**:  God of war, violence, and bloodshed.
+* **Alignment**: CN
+* **Domain**: War, Destruction
+* **Symbol**:  Sword and Shield
+
+
+## Aphrodite 
+
+* **Description**:  Goddess of love, beauty, and sexuality
+* **Alignment**: N
+* **Domain**:  Charm, Life
+* **Symbol**:  Rose
+
+## Hermes 
+
+* **Description**:  God of commerce, thieves, travelers, and messengers.
+* **Alignment**: CN/CE
+* **Domain**:  Trickery, Knowledge
+* **Symbol**:  Caduceus 
