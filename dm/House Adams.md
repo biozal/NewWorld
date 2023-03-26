@@ -55,8 +55,8 @@ All of Lord Michael's family members are all influential members of the royal co
 
 - **Noah Kelley of Weston**: He is Lady Elizabeth's uncle and the younger brother of her mother. He is in his early 70s, with short grey hair and bright blue eyes. He is married to Eve Kelley (Mooney) of Weston. Noah is known for his military prowess and was a respected general in the kingdom's army.
 
-  - **Eve Kelley of Weston**:  Married to Noah Kelley.  She is in her early 70s.
+  - **Eve Kelley (Bartlett) of Weston**:  Married to Noah Kelley.  She is in her early 70s.
 
 - **Thoros Collins of Wellesley**: He is Lady Elizabeth's older brother, in his early 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He is a skilled warrior and has been known to lead armies into battle. He is married to  Eleanor Collins of Wellesley.
 
-  - **Eleanor Collins of Wellesley** Lady Elenaor is married to Lord Thoros Collins of Wellesley.  She is in her early 60s. Lady Eleanor hails from Wellesley and is a petite woman with short curly blonde hair and soft brown eyes. They have two children: Prince Richard and Lady Caroline.
+  - **Eleanor Collins (Lowe) of Wellesley** Lady Elenaor is married to Lord Thoros Collins of Wellesley.  She is in her early 60s. Lady Eleanor hails from Wellesley and is a petite woman with short curly blonde hair and soft brown eyes. They have two children: Richard and Caroline.
