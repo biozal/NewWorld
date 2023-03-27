@@ -23,19 +23,20 @@ All of Lord Michael's family members are all influential members of the royal co
 
 - **Lady Grace Adams (Collins)**: She is Lord Michael's mother, now deceased. She was a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom.  She original was from Belmont.
 
-- **Lord Josh Adams of Northborough**: He is Lord Michael's uncle and the older brother of his father. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Rachel of Northborough.
+  - **Lord Josh Adams of Northborough**: He is Lord Michael's uncle and the older brother of his father. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Rachel of Northborough.
 
-  - **Lady Rachel Adams of Northborough**:  She is married to Lord Josh of Northborough.  She is in her late 70s.
+    - **Lady Rachel Adams of Northborough**:  She is married to Lord Josh of Northborough.  She is in her late 70s.
  
- - **Lord Allen Adams, Duke of Brookline**: He is Lord Michael's uncle and the younger brother of his father. He is in his mid-60s, with short curly brown hair and bright green eyes. He is known for his love of art and music. He is married to Lady Beatrice of Weston, who is in her mid-50s.
+  - **Lord Allen Adams, Duke of Brookline**: He is Lord Michael's uncle and the younger brother of his father. He is in his mid-60s, with short curly brown hair and bright green eyes. He is known for his love of art and music. He is married to Lady Beatrice of Weston, who is in her mid-50s.
 
-  - **Lady Beatrice Adams of Brookline**:  She is married to Lord Allen.  She is in her mid-50s
+    - **Lady Beatrice Adams of Brookline**:  She is married to Lord Allen.  She is in her mid-50s
   
 - **Lady Margaret Hudson (Collins) of Needham**: She is Lord Michael's aunt and the younger sister of his mother. She is in her late 60s, with short blonde hair and bright green eyes. She is known for her love of animals and her charitable work. She is married to Lord Louie of Needham.
 
   - **Lord Louie Hudson of Needham**:  he is married to Lady Margaret of Needham.  He is in his mid-60's.
 
 - **Lady Elizabeth Cunningham (Collins), Countess of Southborough**: She is Lord Michael's aunt and the younger sister of his mother. She is in her mid-60s, with long curly blonde hair and bright blue eyes. She is known for her grace and elegance. She is married to Lord James of Southborough.
+
   - **Lord James Cunningham of Southborough** - Married to Lady Elizabeth Cunningham.  He is in his mid-70's.
 
 - **Lady Caroline Carney (Adams) of Weston**: She is Lord Michael's older sister, in her late 50s. She is a stunning beauty with long curly blonde hair and bright blue eyes. She is known for her love of art and has been known to create beautiful paintings and sculptures. She is married to Lord Conrad of Weston.
