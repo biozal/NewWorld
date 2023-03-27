@@ -171,20 +171,117 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Angus, an elderly dwarf bartender with a thick accent and a love of ale.
        
 ### Ouside the Wall
-  - Marietta (75) North West side outside of town (mixed race)
-  - Sandy Spring (400) North side outside of town (Tabaxi Camp)
-  - Alpharetta (400) North side outside of town (mixed race)
-  - Cumming (400) North side outside of town on Lake Lanier (mixed race, magic school)
-  - Duluth (85) North East outside of town (Elf)
-  - Buford (85) North East outside of town (mixed race)
-  - Canton (575) North West outside of town (mixed race)
-  - Stone Mountain (10) East side out of town (Dwarf) 
-  - Forest Park (41) South side out of town (Orc)
-  - Union City (85) South West side out of town (Orc)
-  - Ellenwood (675) South side out of town (Mixed Race)
-  - Stonecrest (20) East side out of town (Human)
-  - Morrow (75) - South out of town (Tabaxi)
-   
+
+#### Marietta (75) North West side outside of town (mixed race)
+- Inn
+  - The Iron Griffon
+    - Owner: Valtor the Iron, a grizzled and battle-hardened human with a scarred face and a fierce reputation.
+    - Workers:
+       - Isla, a young halfling barmaid with a sly wit and a talent for card games.
+       - Thorgrim, an elderly dwarf blacksmith with a gruff demeanor and a talent for crafting weapons and armor.
+  - The Mystic Rose
+    - Owner: Seraphine the Mystic, a mysterious and ethereal elf with long white hair and piercing green eyes. 
+    - Workers:
+       - Sylvi, a young half-elf maid with a gentle touch and a love of cleaning.
+       - Orion, a middle-aged human wizard with a sharp mind and a love of puzzles.
+       
+#### Sandy Spring (400) North side outside of town (Tabaxi Camp)
+- Inn
+  - The Rustic Rooster
+    - Owner: Rooster the Red, a jovial and good-natured halfling with a rosy complexion and a love of good food and drink.
+    - Workers:
+       - Tilly, a young human barmaid with curly brown hair and a contagious laugh.
+       - Hans, an elderly human cook with a round belly and a love of traditional recipes.
+
+#### Alpharetta (400) North side outside of town (mixed race)
+- Inn
+  - The Raven's Nest
+    - Owner: Raven the Ravenous, a gluttonous and greedy goblin with a love of wealth and power.
+    - Workers:
+       - Twig, a young goblin server with a mischievous grin and a talent for pranks.
+       - Grunt, an elderly orc bartender with a gruff voice and a love of brawls.
+  - The Silver Moon
+    - Owner: Selene the Silver, a wise and learned elf with long silver hair and piercing blue eyes.
+    - Workers:
+       - Galadriel, a young half-elf bard with a beautiful voice and a talent for storytelling.
+       - Thrain, a middle-aged dwarf miner with a thick beard and a love of gemstones.
+     
+#### Cumming (400) North side outside of town on Lake Lanier (mixed race, magic school)
+- Inn
+  - The Sapphire Seahorse
+    - Owner: Coral, a beautiful and enchanting water genasi with shimmering blue skin and a melodic voice.
+    - Workers:
+       - Finn, a young human sailor with a love of adventure and a talent for navigation.
+       - Magnus, a middle-aged dwarf chef with a love of seafood and a talent for cooking.
+
+#### Duluth (85) North East outside of town (Elf)
+- Inn
+  - The Thirsty Troll 
+    - Owner: Torgrim, a massive and imposing human.
+    - Workers:
+       - Twig, a young goblin server with a mischievous grin and a talent for pranks.
+       - Grunt, an elderly orc bartender with a gruff voice and a love of brawls.
+
+#### Buford (85) North East outside of town (mixed race)
+- Inn
+  - The Phoenix's Flame
+    - Owner: Phoenix, a regal and majestic Kenku with feathers that shimmer with every color of the rainbow.
+    - Workers:
+       - Ember, a young half-elf barmaid with fiery red hair and a spunky attitude.
+       - Blaze, a middle-aged human cook with a love of spicy food and a talent for cooking.
+
+#### Canton (575) North West outside of town (mixed race)
+- Inn
+  - The Raven's Wing
+    - Owner: Crow the Kenku, a sly and cunning Kenku with dark feathers and piercing black eyes.
+    - Workers:
+       - Raven, a young human barmaid with jet-black hair and a brooding demeanor.
+       - Blackbeak, an elderly goblin bartender with a sharp tongue and a talent for insults.
+
+#### Stone Mountain (10) East side out of town (Dwarf) 
+- Inn
+  - The Moonstone
+    - Owner: Luna, a serene and graceful elf with long silver hair and sparkling blue eyes.
+    - Workers:
+       - Star, a young half-elf gardener with a love of astronomy and a talent for identifying plants.
+
+#### Forest Park (41) South side out of town (Orc)
+- Inn
+  - The Thundering Hoof
+    - Owner: Thor, a tall and imposing Orc with a thick beard and a booming voice.
+
+#### Union City (85) South West side out of town (Orc)
+- Inn
+  - The Iron Horse 
+    - Owner: Steele, a rugged and weathered Orc with a thick beard and sharp teeth.
+    - Workers:
+       - Poppy, a young halfling barmaid with a bubbly personality and a love of pranks.
+
+
+#### Ellenwood (675) South side out of town (Mixed Race)
+- Inn
+  - The Green Dragon
+    - Owner: Jade, a fierce and powerful elf.
+    - Workers:
+       - Willow, a young half-elf gardener with a love of plants and a gentle touch.
+       - Ash, a middle-aged human wizard with a sharp mind and a love of nature.
+
+#### Stonecrest (20) East side out of town (Human)
+- Inn
+  - The Golden Lion
+    - Owner: Leo, an older human.
+    - Workers:
+       - Ted, a young half-elf server with a fierce attitude and a love of adventure.
+       - Pamai, an elderly human bartender with a smooth voice and a love of music.
+
+#### Morrow (75) - South out of town (Tabaxi)
+- Inn
+  - The Black Cat
+    - Owner: Salem, a mysterious and mischievous Tabaxi with fur as dark as the night.
+    - Workers:
+       - Luna, a young Tabaxi barmaid with long black hair and a mysterious aura.
+       - Merlin, an elderly Tabaxi storyteller with a twinkle in his eye and a wealth of magical tales to tell.
+          
 ### Population
   - Inside the parameter:  555,000
   - Ouside the paremeter:  80,000
