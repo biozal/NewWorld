@@ -16,9 +16,9 @@ House Brown rules over the territory of Pennsylvania, West Virginia, and Virgina
 
 - **Duchess Margaret Brown (Hastings)**:  mother of Duke Phillip Brown.  Margaret Brown is a refined and elegant woman with a warm smile and gentle demeanor. She comes from a wealthy family in New York and is known for her philanthropic work in the arts and education. She is a devoted mother and grandmother who takes great pride in her family's legacy.  She was murdered at an art gallery showing when she was 69 years old.
 
-- **Duke Delcan Brown**:  Brother of Duke William Brown and uncle of Duke Phillip Brown.  He is 65 years old.  Delcan Brown is a burly man with a thick beard and a booming voice. He is a successful miner who owns several properties throughout Pennsylvania. He is known for his love of horses and his skill as a sharpshooter.
+ - **Duke Delcan Brown**:  Brother of Duke William Brown and uncle of Duke Phillip Brown.  He is 65 years old.  Delcan Brown is a burly man with a thick beard and a booming voice. He is a successful miner who owns several properties throughout Pennsylvania. He is known for his love of horses and his skill as a sharpshooter.
 
-- **Duchess Madison Brown**: Sister of Duke William Brown and aunt of Duke Phillip Brown.  She died when she was 22 years old from the flu.
+ - **Duchess Madison Brown**: Sister of Duke William Brown and aunt of Duke Phillip Brown.  She died when she was 22 years old from the flu.
 
 - **John Hastings**:  Brother of Duchess Margaret Brown and uncle of Duke Phillip Brown.  He is 70 years old.  John Hastings is a tall, lanky man with a crooked smile and a mischievous twinkle in his eye. He is a retired diplomat.  He is known for his love of adventure and his gift for storytelling.
 
