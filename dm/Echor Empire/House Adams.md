@@ -23,11 +23,11 @@ All of Lord Michael's family members are all influential members of the royal co
 
 - **Lady Grace Adams (Collins)**: She is Lord Michael's mother, now deceased. She was a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom.  She original was from Belmont.
 
-  - **Lord Josh Adams of Northborough**: He is Lord Michael's uncle and the older brother of his father. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Rachel of Northborough.
+  - **Lord Josh Adams of Northborough**: He is Lord Michael's uncle and the older brother of Lord Theodore Adam. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Lady Rachel of Northborough.
 
-    - **Lady Rachel Adams of Northborough**:  She is married to Lord Josh of Northborough.  She is in her late 70s.
+    - **Lady Rachel Adams of Northborough**:  She is married to Lord Josh Adams of Northborough.  She is in her late 70s.
  
-  - **Lord Allen Adams, Duke of Brookline**: He is Lord Michael's uncle and the younger brother of his father. He is in his mid-60s, with short curly brown hair and bright green eyes. He is known for his love of art and music. He is married to Lady Beatrice of Weston, who is in her mid-50s.
+  - **Lord Allen Adams, Duke of Brookline**: He is Lord Michael's uncle and the younger brother of Lord Theodore Adam. He is in his mid-60s, with short curly brown hair and bright green eyes. He is known for his love of art and music. He is married to Lady Beatrice of Weston, who is in her mid-50s.
 
     - **Lady Beatrice Adams of Brookline**:  She is married to Lord Allen.  She is in her mid-50s
   
