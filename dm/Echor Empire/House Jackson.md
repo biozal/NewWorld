@@ -1,5 +1,7 @@
 # House Jackson of New Jersey
 
+House Jackson rules over the territory of New Jersey.  They have been shadowed from taking over lands by House Brown whom rules the lands around it.  Lord Charles Jackson is one of the greatest military minds in the empire and the only reason that his house rules over New Jersey.
+
 - **Lord Charles Jackson**: A stern but fair ruler, in his or early 50s, with short dark hair and piercing blue eyes. He wears a fine suit of plate armor adorned with the sigil of House Jackson, a white eagle on a green field. Charles is known for his tactical brilliance and unyielding loyalty to his family and his people.
 
 - **Lady Chelsea Jackson (Cole)**:  Lord Charles Jackson's wife.  A graceful and charming woman, in her mid-40s, with long blonde hair and bright green eyes. She wears a flowing gown of emerald silk, embroidered with gold thread and pearls. Chelsea is highly skilled in diplomacy and has many allies in New York and House Argentus.
@@ -35,7 +37,6 @@
 - **Lady Margaret Jackson (Byers)**: Lord Karson Jackson's wife, in her late 40s, with curly brown hair and a warm smile. She wears a gown of green silk and carries a silver fan that she uses to hide her emotions. Margaret is a kind and generous woman who is beloved by many of House Jackson's vassals.
 
   - **Lady Karlie Jackson**: Lord Karson and Margaret Jackson's daughter, in her early 20s, with long brown hair and a cheerful demeanor. She wears a gown of yellow silk and carries a parasol that she uses to keep the sun off her face. Karlie is a talented singer and dancer who loves nothing more than performing for a crowd.
-
 
 
 ## Cole Family
