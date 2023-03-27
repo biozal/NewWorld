@@ -1,24 +1,24 @@
 # Atlanta
 
-## Regions
+# Regions
 
 Atlanta is a large city broken up into regions of the city.  The city is surrounded by a large wall that goes around the city called the `Wall`.  This was to keep raiders from destroying the city.     
 
-### Inside the Wall
+## Inside the Wall
 
-#### Brookhaven
-- Ruler
+### Brookhaven
+#### Ruler
   - Melisande Arvan - 42 year old female human.  Melisande is a tall and imposing woman with a regal bearing. She has long, dark hair and piercing blue eyes. She is known for her wisdom and strategic mind, as well as her fierce loyalty to her people.
     - Spouse:  Alistair Arvan 
     - Children:  Two daughters: Isabella and Sophia
-- Shops
+#### Shops
   - The Mystic Emporium
     - Type:  Magic items
     - Owner: Tiberius Stonefire: Tiberius is a middle-aged dwarf with a bushy black beard and piercing blue eyes. He is known for his expertise in magical artifacts and his ability to locate rare items.
   - The Golden Hammer
     - Type:   Weapons and armor
     - Owner: Brienne Redwing: Brienne is a tall and imposing woman with long red hair and a fiery temperament. She is a skilled blacksmith and has a reputation for crafting some of the finest weapons and armor in the land.
-- Inn
+#### Inn
   - The Tipsy Dragon Inn
     - Owner: Rorik the Red, a middle-aged human with a bushy red beard and a boisterous laugh.
     - Workers:
