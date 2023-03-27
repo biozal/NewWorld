@@ -107,7 +107,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 # Inside the Wall
 
 ## Brookhaven
-### Ruler
+### Magister
   - Melisande Arvan - 42 year old female human.  Melisande is a tall and imposing woman with a regal bearing. She has long, dark hair and piercing blue eyes. She is known for her wisdom and strategic mind, as well as her fierce loyalty to her people.
     - Spouse:  Alistair Arvan 
     - Children:  Two daughters: Isabella and Sophia
@@ -131,7 +131,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Luna, a middle-aged human healer with a gentle touch and a kind heart.   
 
 ## Buckhead
-### Ruler
+### Magister
   - Cedric Blackthorn - 50 year old human male.  Cedric is a tall and muscular man with a commanding presence. He has short, black hair and a neatly trimmed beard. He is known for his martial prowess and his ability to inspire loyalty in his troops.
     - Spouse:  Elspeth Blackthorn
     - Children:  One son, Roland, and one daughter, Rowena.
@@ -166,7 +166,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Bryleigh Stonehead, 45, a rugged and weathered dwarf.
 
 ## Decatur
-### Ruler
+### Magister
   - Lirien Silverthorn - 28 year old female human.  Lirien is a petite and graceful woman with long, silver hair and bright green eyes. She is known for her compassion and her dedication to the people of Decatur. She is also a skilled healer.
     - Spouse:  None
     - Children:  None
@@ -191,7 +191,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Babs Stonejaw, 50, a wise and learned dwarf sage with a vast knowledge of horticulture.
         
 ## Belvedere Park
-### Ruler
+### Magister
   - Thorne Ironwood - 80 year old male Dwarf.   Thorne is a rugged and handsome man with short, brown hair and a scruffy beard. He is known for his bravery and his love of adventure. He is also a skilled blacksmith.
     - Spouse:  Sariel Ironwood
     - Children:  One daughter, Lyra.
@@ -213,7 +213,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Micky Ironworks, 60, a venerable and respected dwarf sage with a vast knowledge of philosophy and science.
        
 ## East Point
-### Ruler
+### Magister
   - Vesper Nightshade - 180 year old female elf.   Lady Vesper is a mysterious and enigmatic woman with long, black hair and piercing red eyes. She is known for her magical abilities and her connection to the supernatural.
     - Spouse:  none
     - Children: none
@@ -237,7 +237,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Alaric, a middle-aged human wizard with a sharp mind and a love of books.
      
 ## College Park
-### Ruler
+### Magister
   - VLucien Ravenswood - 220 year old male elf.   Lucien is a tall and lean man with pale skin and jet-black hair. He is known for his keen intellect and his love of books. He is also a skilled wizard.
     - Spouse:  Celeste Ravenswood
     - Children: Two sons, Alaric and Tristan.
@@ -256,7 +256,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Gareth, a middle-aged human cook with a thick mustache and a love of hearty fare.
            
 ## Mountain View
-### Ruler
+### Magister
   - Aric Stonefist - 85 year old male dwarf.   Lord Aric is a burly and rugged man with a thick beard and scars on his face. He is known for his strength and his skill as a warrior. He is also a master of siegecraft.
     - Spouse:  Freya Stonefist
     - Children: Two sons, Erik and Leif.
@@ -281,7 +281,7 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
        - Harley Cole, 40, a wild and mischievous satyr gardener with a love of nature and a talent for taming wild animals.
 
 ## Doraville
-### Ruler
+### Magister
   - Eilistraee Moonwhisper - unknown age.   Eilistraee is a divine being, a goddess of the moon and the hunt. She appears to mortals as a beautiful elven woman with silver hair and glowing blue eyes. She is known for her compassion and her love of music and dance.
     - Spouse:  none
     - Children: none
