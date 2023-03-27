@@ -20,7 +20,13 @@ House Brown rules over the territory of Pennsylvania, West Virginia, and Virgina
 
    - **Duchess Claire Brown**:  Wife of of Duke Delcan Brown and uncle of Duke Phillip Brown.  She is 38 years old.  Claire is a kind and nurturing woman with long curly brown hair and bright green eyes. She's always had a love for nature, and spends most of her time gardening and caring for their animals on their farm. She's deeply devoted to her family and will do anything to protect them.
    
-- **Lord Abigail Brown**:  Daughter of Duke Delcan and Duchess Claire Brown.  She is 12 years old.  Abigail is the oldest of the Brown children and takes after her father in her love of the outdoors. She's a talented archer and has a quick wit that often gets her out of sticky situations. She's fiercely protective of her siblings and often acts as the mediator between them.
+     - **Lady Abigail Brown**:  Daughter of Duke Delcan and Duchess Claire Brown.  She is 12 years old.  Abigail is the oldest of the Brown children and takes after her father in her love of the outdoors. She's a talented archer and has a quick wit that often gets her out of sticky situations. She's fiercely protective of her siblings and often acts as the mediator between them.
+    
+     - **Lord Ethan Brown**:  Son of Duke Delcan and Duchess Claire Brown.  He is 9 years old.  Ethan is a shy and sensitive boy with a love for books and learning. He's often overlooked by his siblings, but has a deep wisdom beyond his years. He has a natural talent for magic and often spends his time practicing spells in secret.
+
+     - **Lady Lily Brown**:  Daughter of Duke Delcan and Duchess Claire Brown.  She is 7 years old.  Lily is a bubbly and energetic little girl with curly blonde hair and bright blue eyes. She loves animals and often brings home strays to care for. She's fearless and adventurous, often getting herself into trouble with her curiosity.
+
+     - **Lord Oliver Brown**:  Son of Duke Delcan and Duchess Claire Brown.  He is 4 years old.  Oliver is the youngest of the Brown children and is still finding his place in the family. He's a mischievous little boy with a love for climbing and exploring. He adores his older siblings and often follows them around, trying to keep up with their adventures.
 
  - **Duchess Madison Brown**: Sister of Duke William Brown and aunt of Duke Phillip Brown.  She died when she was 22 years old from the flu.
 
