@@ -20,6 +20,8 @@ House Brown rules over the territory of Pennsylvania, West Virginia, and Virgina
 
  - **Duchess Madison Brown**: Sister of Duke William Brown and aunt of Duke Phillip Brown.  She died when she was 22 years old from the flu.
 
+## Hastings Family
+
 - **John Hastings**:  Brother of Duchess Margaret Brown and uncle of Duke Phillip Brown.  He is 70 years old.  John Hastings is a tall, lanky man with a crooked smile and a mischievous twinkle in his eye. He is a retired diplomat.  He is known for his love of adventure and his gift for storytelling.
 
 - **Caroline Richards(Hastings)**: Sister of Duchess Margaret Brown and aunt of Duke Phillip Brown.  She is in her late 60's.  She is a regal woman with a commanding presence and a sharp mind.  Her husband disappeared 20 years ago.   She hasn't remarried.
