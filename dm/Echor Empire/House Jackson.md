@@ -14,9 +14,9 @@
 
 -  **Lady Maria Jackson (Rios)**: Lord Charles Jackson's mother and Lord Owen Jackson's wife.  Lady Maria is a kindly woman, in her 60s, with silver hair and a warm smile. She wears a simple gown of brown wool and carries a walking stick adorned with a carved eagle.
 
-  - **Lord Jacob Jackson**:  Jacob Lord Owen's son and Lord Charles brother.  He is a tall and imposing man, in his early 40s, with dark hair and a thick beard. He wears a suit of black plate armor and carries a longsword that he inherited from his father. 
+   - **Lord Jacob Jackson**:  Jacob Lord Owen's son and Lord Charles brother.  He is a tall and imposing man, in his early 40s, with dark hair and a thick beard. He wears a suit of black plate armor and carries a longsword that he inherited from his father. 
 
-  - **Lady Kayla Jackson**:  Kayla is Lord Owen's daughter and Lord Charles sister.  She is a beautiful and cunning woman, in her late 30s, with long red hair and a mischievous smile. She wears a gown of red silk and carries a poisoned dagger that she keeps hidden in her sleeve.
+   - **Lady Kayla Jackson**:  Kayla is Lord Owen's daughter and Lord Charles sister.  She is a beautiful and cunning woman, in her late 30s, with long red hair and a mischievous smile. She wears a gown of red silk and carries a poisoned dagger that she keeps hidden in her sleeve.
 
 - **Lord Brandon Jackson**: Lord Charles Jackson's uncle, in his early 50s, with a stocky build and a bushy brown beard. He wears a suit of chain mail and carries a battle-axe that he likes to swing around to intimidate his enemies. Brandon is known for his hot temper and his tendency to rush into battle without thinking.
 
