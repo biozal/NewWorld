@@ -42,8 +42,16 @@ House Brown rules over the territory of Pennsylvania, West Virginia, and Virgina
 
 - **Alice Foster**:  mother of Duchess Emily Brown (Foster).  She is in her late 40's.  Alice Foster is a petite and graceful woman with delicate features and a soft voice. She is a former beauty queen who still turns heads with her elegant style and refined manners. She is an accomplished pianist and enjoys playing for her family and friends.
 
-- **Joseph Foster**: brother of Edward Foster and uncle of Duchess Emily Brown (Foster).  Joseph Foster is a stern man with a no-nonsense attitude and a sharp tongue. He is a retired military officer who served in several conflicts throughout his career. He is known for his uncompromising values and his dedication to his region.
+- **Joseph Foster**: brother of Edward Foster and uncle of Duchess Emily Brown (Foster).  He is in his late 50's.  Joseph Foster is a stern man with a no-nonsense attitude and a sharp tongue. He is a retired military officer who served in several conflicts throughout his career. He is known for his uncompromising values and his dedication to his region.
 
+   - **Charlotte Foster**: wife of Joseph Foster and aunt of Duchess Emily Brown (Foster).  She is in his mid 30's.  Charlotte is a kind and compassionate woman with a warm smile and bright blue eyes. She has long brown hair that she often wears in a braid. She's a skilled healer and often volunteers her time at the local clinic. She's deeply in love with her husband Joseph and is fiercely protective of her children.
+
+     - **Emily Foster**:  Daughter of Joseph and Charlotte Foster.  She is 10 years old.  Emily is the oldest of the Foster children and is a natural leader. She has long curly red hair and bright green eyes. She's a skilled fighter and often acts as her siblings' protector. She's also quite clever and often uses her wits to get her family out of tricky situations.
+
+     - **Benjamin Foster**:  Son of Joseph and Charlotte Foster.  He is 7 years old.  Benjamin is a mischievous little boy with short brown hair and bright blue eyes. He's a skilled climber and often gets himself into trouble with his adventures. He's fiercely loyal to his family and will do anything to protect them.
+
+     - **Sophia Foster**:  Daughter of Joseph and Charlotte Foster.  She is 4 years old.  Sophia is a sweet and curious little girl with curly blonde hair and big brown eyes. She loves animals and often spends her time playing with the family's cats and dogs. She's quite brave for her age and often surprises her family with her courage.
+    
 - **Sarah Thompson (Foster)**: sister of Joseph Foster and aunt of Duchess Emily Brown (Foster).  Sarah Thompson is a kind-hearted woman with a gentle nature and a warm smile. She is a retired teacher who spent her career working with special needs children. She is known for her patience and her ability to connect with her students.  Her husband Davis was killed in one of the regional conflicts.
 
 Nothing is known of Alice Foster.  
