@@ -53,7 +53,18 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Greta, a young human barmaid with curly brown hair and a bubbly personality.
        - Magnus, a middle-aged dwarf chef with a bushy black beard and a love of fine cuisine.
-        
+- Religion
+  - Temple of Zeus
+    - Workers:
+       - Demetrius, 35, a burly and imposing human priest with a deep voice and a love of thunderstorms.
+       - Thalia, 25, a lithe and graceful elf acolyte with a love of storytelling and a talent for oratory.
+       - Nikos, 50, a wise and learned dwarf sage with a vast knowledge of history and mythology.
+  - Temple of Hera
+    - Workers:
+       - Eleni, 30, a regal and elegant human priestess with a love of marriage and a talent for diplomacy.
+       - Artemis, 20, a wild and untamed half-elf acolyte with a love of nature and a talent for archery.
+       - Hephaestus, 45, a rugged and weathered dwarf.
+
 #### Decatur
 - Ruler
   - Lirien Silverthorn - 28 year old female human.  Lirien is a petite and graceful woman with long, silver hair and bright green eyes. She is known for her compassion and her dedication to the people of Decatur. She is also a skilled healer.
@@ -72,6 +83,12 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Freya, a young half-elf stablehand with a love of animals and a talent for horseback riding.
        - Gunnar, an elderly human storyteller with a wrinkled face and a wry sense of humor.    
+- Religion
+  - Temple of Demeter
+    - Workers:
+       - Persephone, 25, a beautiful and enchanting human priestess with a love of agriculture and a talent for gardening.
+       - Pan, 30, a wild and mischievous satyr acolyte with a love of nature and a talent for music.
+       - Hephaestus, 50, a wise and learned dwarf sage with a vast knowledge of horticulture.
         
 #### Belvedere Park
 - Ruler
@@ -88,7 +105,13 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Astrid, a young dwarf maid with a love of cleanliness and a no-nonsense attitude.
        - Erik, a middle-aged human blacksmith with a fiery temper and a talent for crafting weapons and armor.       
-
+- Religion
+  - Temple of Athena
+    - Workers:
+       - Athena, 35, a regal and wise elf priestess with a love of wisdom and a talent for strategy.
+       - Apollo, 25, a handsome and talented half-elf acolyte with a love of art and a talent for poetry.
+       - Hephaestus, 60, a venerable and respected dwarf sage with a vast knowledge of philosophy and science.
+       
 #### East Point
 - Ruler
   - Vesper Nightshade - 180 year old female elf.   Lady Vesper is a mysterious and enigmatic woman with long, black hair and piercing red eyes. She is known for her magical abilities and her connection to the supernatural.
@@ -150,6 +173,12 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Asher, a young half-elf gardener with a love of nature and a talent for growing plants.
        - Talia, a middle-aged human healer with a gentle touch and a soothing presence.
+- Religion
+  - Temple of Artemis
+    - Workers:
+       - Artemis, 30, a fierce and independent human priestess with a love of the hunt and a talent for archery.
+       - Orion, 25, a handsome and daring half-elf acolyte with a love of adventure and a talent for tracking.
+       - Han, 40, a wild and mischievous satyr gardener with a love of nature and a talent for taming wild animals.
 
 #### Doraville
 - Ruler
@@ -169,6 +198,12 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Kira, a young human barmaid with fiery red hair and a fierce attitude.
        - Angus, an elderly dwarf bartender with a thick accent and a love of ale.
+- Religion
+  - Temple of Apollo
+    - Workers:
+       - Apollo, 40, a handsome and talented human priest with a love of music and a talent for healing.
+       - Daphne, 30, a shy and gentle elf acolyte with a love of plants and a talent for herbalism.
+       - Hephaestus, 65, a venerable and respected dwarf sage with a vast knowledge of music and medicine.
        
 ### Ouside the Wall
 
@@ -184,6 +219,12 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Sylvi, a young half-elf maid with a gentle touch and a love of cleaning.
        - Orion, a middle-aged human wizard with a sharp mind and a love of puzzles.
+- Religion
+  - Temple of Ares
+    - Workers:
+       - Ares, 35, a fierce and warlike human priest with a love of battle and a talent for strategy.
+       - Eris, 25, a chaotic and unpredictable half-elf acolyte with a love of chaos and a talent for causing trouble.
+       - Hephaestus, 70, a venerable and respected dwarf sage with a vast knowledge of war and weaponry.
        
 #### Sandy Spring (400) North side outside of town (Tabaxi Camp)
 - Inn
@@ -213,6 +254,12 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Finn, a young human sailor with a love of adventure and a talent for navigation.
        - Magnus, a middle-aged dwarf chef with a love of seafood and a talent for cooking.
+- Religion
+  - Temple of Poseidon
+    - Workers:
+       - Alexios, 40, a tall and imposing human priest with a love of the sea and a talent for navigation.
+       - Thetis, 30, a serene and graceful elf acolyte with a love of sea creatures and a talent for singing.
+       - Drog, 55, a jolly and stout dwarf fisherman with a love of fishing and a talent for cooking.
 
 #### Duluth (85) North East outside of town (Elf)
 - Inn
