@@ -14,7 +14,9 @@
 
 -  **Lady Maria Jackson (Rios)**: William is a grizzled veteran of many battles, in his 70s, with a long white beard and a scar over his left eye. He wears a suit of chain mail and carries a battle-axe that has been in his family for generations. Margaret is a kindly woman, in her 60s, with silver hair and a warm smile. She wears a simple gown of brown wool and carries a walking stick adorned with a carved eagle.
 
-Charles's siblings: Lord Henry Jackson and Lady Isabella Jackson. Henry is a tall and imposing man, in his early 40s, with dark hair and a thick beard. He wears a suit of black plate armor and carries a longsword that he inherited from his father. Isabella is a beautiful and cunning woman, in her late 30s, with long red hair and a mischievous smile. She wears a gown of red silk and carries a poisoned dagger that she keeps hidden in her sleeve.
+- **Lord Jacob Jackson**:  Jacob Lord Owen's son and Lord Charles brother.  He is a tall and imposing man, in his early 40s, with dark hair and a thick beard. He wears a suit of black plate armor and carries a longsword that he inherited from his father. 
+
+- **Lady Kayla Jackson**:  Kayla is Lord Owen's daughter and Lord Charles sister.  She is a beautiful and cunning woman, in her late 30s, with long red hair and a mischievous smile. She wears a gown of red silk and carries a poisoned dagger that she keeps hidden in her sleeve.
 
 ## Cole Family
 
