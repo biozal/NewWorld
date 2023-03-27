@@ -54,3 +54,12 @@ House Jackson rules over the territory of New Jersey.  They have been shadowed f
   - **Lord Edward Campbell**: Margaret's Campbell husband, in his late 50s, with a bald head and a stern gaze. He wears a suit of black plate armor and carries a sword that has been in his family for generations. Edward is a fierce warrior and a skilled strategist who has won many battles for House Campbell.
 
     - **Lady Amelia Campbell**: Lady Margaret and Lord Edward's daughter.  She is in her mid-20s, with long blonde hair and a sweet smile. She wears a gown of pink silk and carries a small purse that contains her favorite trinkets. Amelia is a kind-hearted young woman who loves animals and spends much of her time caring for them.
+
+# Plot Points
+
+- Three military training bases are located in New Jersey: Newark, Jersey City, Paterson
+
+- The city of Camden have constant contention with House Brown over fishing rights of the Delaware River.
+
+- A cult that hunts magic users called The Order of the Mystic Hunter operate out of Salem.  
+
