@@ -1,6 +1,6 @@
 # House Brown of Pennsylvania
 
-House Brown rules over the territory of Pennsylvania. Their ancestral home, Keystone Keep, is a symbol of the family's enduring legacy and the vital role they play in the region's stability.  
+House Brown rules over the territory of Pennsylvania, West Virginia, and Virgina. Their ancestral home, Keystone Keep, located in Pittsburg is a symbol of the family's enduring legacy and the vital role they play in the region's stability.  
 
 - **Duke Phillip Brown**: He is the head of the family, in his late 50s. He is a tall and imposing man with short brown hair and piercing blue eyes. He is a skilled warrior and has been known to lead armies into battle.  Phillip is a skilled equestrian and enjoys hunting in the vast forests surrounding Keystone Keep.
 
