@@ -32,9 +32,9 @@
 
 - **Lord Karson Jackson**: Lord Charles Jackson's uncle, in his early 50s, with a thin build and a sharp nose. He wears a suit of silver chain mail and carries a spear that he is deadly accurate with. Karson is a cunning strategist and a skilled diplomat who has many allies in the courts of other noble houses.
 
-- **Lady Margaret Jackson**: Lord Karson Jackson's wife, in her late 40s, with curly brown hair and a warm smile. She wears a gown of green silk and carries a silver fan that she uses to hide her emotions. Margaret is a kind and generous woman who is beloved by many of House Jackson's vassals.
+- **Lady Margaret Jackson (Byers)**: Lord Karson Jackson's wife, in her late 40s, with curly brown hair and a warm smile. She wears a gown of green silk and carries a silver fan that she uses to hide her emotions. Margaret is a kind and generous woman who is beloved by many of House Jackson's vassals.
 
-Lady Mary Jackson: Thomas and Catherine's daughter, in her early 20s, with long brown hair and a cheerful demeanor. She wears a gown of yellow silk and carries a parasol that she uses to keep the sun off her face. Mary is a talented singer and dancer who loves nothing more than performing for a crowd.
+  - **Lady Karlie Jackson**: Lord Karson and Margaret Jackson's daughter, in her early 20s, with long brown hair and a cheerful demeanor. She wears a gown of yellow silk and carries a parasol that she uses to keep the sun off her face. Karlie is a talented singer and dancer who loves nothing more than performing for a crowd.
 
 
 
