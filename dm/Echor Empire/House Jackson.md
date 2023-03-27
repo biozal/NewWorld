@@ -28,8 +28,7 @@
 
 - **Lord Joshua Blackwood**: Lady Hollie Blackwood's husband, in his early 50s, with a bald head and a neatly trimmed beard. He wears a suit of black leather armor and carries a pair of daggers that he is skilled at throwing. Joshua is a cunning and ruthless man who is feared by many of his enemies.
 
-  - **Lady Sophia Blackwood**: Lady Hollie Blackwood and Lord Joshua Blackwood's daughter, in her late teens, with long black hair and a pale   complexion. She wears a gown of black velvet and carries a silver-tipped rapier that she is highly skilled with. Sophia is a quiet and     
-  reserved young woman who prefers books to people, but she is fiercely loyal to her family.
+  - **Lady Sophia Blackwood**: Lady Hollie Blackwood and Lord Joshua Blackwood's daughter, in her late teens, with long black hair and a pale  complexion. She wears a gown of black velvet and carries a silver-tipped rapier that she is highly skilled with. Sophia is a quiet and    reserved young woman who prefers books to people, but she is fiercely loyal to her family.
 
 - **Lord Karson Jackson**: Lord Charles Jackson's uncle, in his early 50s, with a thin build and a sharp nose. He wears a suit of silver chain mail and carries a spear that he is deadly accurate with. Karson is a cunning strategist and a skilled diplomat who has many allies in the courts of other noble houses.
 
