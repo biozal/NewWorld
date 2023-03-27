@@ -48,11 +48,11 @@ All of Lord Michael's family members are all influential members of the royal co
 
 - **William Kent of Weston**: He is Lady Elizabeth's father, in his late 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He was known for his military prowess and was a respected general in the kingdom's army. He passed away several years ago.
 
-  - **Lady Margaret Kent (Kelley) of Weston**: She is Lady Elizabeth's mother, in her mid-70s. She is a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom. She passed away several years ago.
+- **Lady Margaret Kent (Kelley) of Weston**: She is Lady Elizabeth's mother, in her mid-70s. She is a tall and graceful woman with long curly blonde hair and bright blue eyes. She was known for her kindness and generosity towards the people of the kingdom. She passed away several years ago.
 
-- **Isabelle Kent of Weston**: She is Lady Elizabeth's aunt and the older sister of her father. She is in her late 70s, with long curly blonde hair and bright blue eyes. Isabelle is known for her love of art and has been known to create beautiful paintings and sculptures.
+- **Isabelle Kent of Weston**: She is Lady Elizabeth's aunt and the older sister of William Kent. She is in her late 70s, with long curly blonde hair and bright blue eyes. Isabelle is known for her love of art and has been known to create beautiful paintings and sculptures.
   
-- **Patrick Kelley of Weston**: He is Lady Elizabeth's uncle and the older brother of her mother. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Mya Kent of Weston.  Patrick is known for his love of hunting and fishing.
+- **Patrick Kelley of Weston**: He is Lady Elizabeth's uncle and the older brother of her Lady Margaret Kent. He is in his late 70s, with short grey hair and bright blue eyes. He is married to Mya Kent of Weston.  Patrick is known for his love of hunting and fishing.
 
   - **Mya Kent (Tanner) of Weston**:  Married to Patrick Kent.  She is also in her late 70s. 
 
@@ -60,6 +60,8 @@ All of Lord Michael's family members are all influential members of the royal co
 
   - **Eve Kelley (Bartlett) of Weston**:  Married to Noah Kelley.  She is in her early 70s.
 
-- **Thoros Collins of Wellesley**: He is Lady Elizabeth's older brother, in his early 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He is a skilled warrior and has been known to lead armies into battle. He is married to  Eleanor Collins of Wellesley.
+## Collins Family
+
+- **Thoros Collins of Wellesley**: He is Lady Elizabeth Cunningham older brother, in his early 70s. He is a tall and imposing man with short grey hair and bright blue eyes. He is a skilled warrior and has been known to lead armies into battle. He is married to  Eleanor Collins of Wellesley.
 
   - **Eleanor Collins (Lowe) of Wellesley** Lady Elenaor is married to Lord Thoros Collins of Wellesley.  She is in her early 60s. Lady Eleanor hails from Wellesley and is a petite woman with short curly blonde hair and soft brown eyes. They have two children: Richard and Caroline.
