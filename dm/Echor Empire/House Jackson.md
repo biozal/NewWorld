@@ -2,7 +2,7 @@
 
 - **Lord Charles Jackson**: A stern but fair ruler, in his or early 50s, with short dark hair and piercing blue eyes. He wears a fine suit of plate armor adorned with the sigil of House Jackson, a white eagle on a green field. Charles is known for his tactical brilliance and unyielding loyalty to his family and his people.
 
-- **Lady Chelsea Jackson (Cole)**:  Lord Charles Jackson's wife.  A graceful and charming woman, in her mid-40s, with long blonde hair and bright green eyes. She wears a flowing gown of emerald silk, embroidered with gold thread and pearls. Chelsea is highly skilled in diplomacy and has many allies in New York and House Argentus.
+  - **Lady Chelsea Jackson (Cole)**:  Lord Charles Jackson's wife.  A graceful and charming woman, in her mid-40s, with long blonde hair and bright green eyes. She wears a flowing gown of emerald silk, embroidered with gold thread and pearls. Chelsea is highly skilled in diplomacy and has many allies in New York and House Argentus.
 
   - **Lady Alexandra Jackson**: She is Lord Charles and Lady Margaret's daughter, in her early 20s. She is a stunning beauty with long curly blonde hair and bright blue eyes. She is known for her love of horses and has been known to participate in races.
 
@@ -42,9 +42,9 @@
 
 - George Cole**:  George Cole is Lady Chelsea Cole father.  He is a jovial man, in his 60s, with a round belly and a booming laugh. He wears a brightly colored doublet and carries a small harp that he likes to play during feasts and celebrations. 
 
-- **Elizabeth Cole**:  Elizabeth Cole is Lady Chelsea Cole mother.  She is a refined woman, in her 50s, with short black hair and piercing blue eyes. She wears a gown of black velvet and carries a silver-tipped cane that doubles as a deadly weapon in a pinch.
+  - **Elizabeth Cole**:  Elizabeth Cole is Lady Chelsea Cole mother.  She is a refined woman, in her 50s, with short black hair and piercing blue eyes. She wears a gown of black velvet and carries a silver-tipped cane that doubles as a deadly weapon in a pinch.
 
-- **Lord Timothy Cole**:  Lord Timothy is Lady Chelsea Jackson brother.  He is a suave and dashing man, in his late 30s, with short brown hair and hazel eyes. He wears a stylish suit of leather armor and carries a pair of silver pistols that he is deadly accurate with. 
+  - **Lord Timothy Cole**:  Lord Timothy is Lady Chelsea Jackson brother.  He is a suave and dashing man, in his late 30s, with short brown hair and hazel eyes. He wears a stylish suit of leather armor and carries a pair of silver pistols that he is deadly accurate with. 
 
-- **Lady Paloma Cole**: Lady Paloma is Lady Chelsea Jackson sister.  She is a witty and intelligent woman, in her early 20's, with curly brown hair and green eyes. She wears a gown of blue satin and carries a leather-bound book that contains many secrets and spells.
+  - **Lady Paloma Cole**: Lady Paloma is Lady Chelsea Jackson sister.  She is a witty and intelligent woman, in her early 20's, with curly brown hair and green eyes. She wears a gown of blue satin and carries a leather-bound book that contains many secrets and spells.
 
