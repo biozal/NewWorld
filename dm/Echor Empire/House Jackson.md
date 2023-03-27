@@ -48,3 +48,8 @@
 
   - **Lady Paloma Cole**: Lady Paloma is Lady Chelsea Jackson sister.  She is a witty and intelligent woman, in her early 20's, with curly brown hair and green eyes. She wears a gown of blue satin and carries a leather-bound book that contains many secrets and spells.
 
+- **Lady Margaret Campbell(Cole)**: Lady Chelsea's aunt, in her mid-50s, with gray hair and a gentle demeanor. She wears a gown of blue satin and carries a bouquet of flowers that she likes to give as gifts. Margaret is a kind and loving woman who is known for her generosity and her devotion to her family.
+
+  - **Lord Edward Campbell**: Margaret's Campbell husband, in his late 50s, with a bald head and a stern gaze. He wears a suit of black plate armor and carries a sword that has been in his family for generations. Edward is a fierce warrior and a skilled strategist who has won many battles for House Campbell.
+
+  - **Lady Amelia Campbell**: Lady Margaret and Lord Edward's daughter.  She is in her mid-20s, with long blonde hair and a sweet smile. She wears a gown of pink silk and carries a small purse that contains her favorite trinkets. Amelia is a kind-hearted young woman who loves animals and spends much of her time caring for them.
