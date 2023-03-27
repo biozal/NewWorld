@@ -56,14 +56,14 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 - Religion
   - Temple of Zeus
     - Workers:
-       - Demetrius, 35, a burly and imposing human priest with a deep voice and a love of thunderstorms.
-       - Thalia, 25, a lithe and graceful elf acolyte with a love of storytelling and a talent for oratory.
+       - Sam Palmer, 35, a burly and imposing human priest with a deep voice and a love of thunderstorms.
+       - Leon Booth, 25, a lithe and graceful human acolyte with a love of storytelling and a talent for oratory.
        - Nikos, 50, a wise and learned dwarf sage with a vast knowledge of history and mythology.
   - Temple of Hera
     - Workers:
-       - Eleni, 30, a regal and elegant human priestess with a love of marriage and a talent for diplomacy.
-       - Artemis, 20, a wild and untamed half-elf acolyte with a love of nature and a talent for archery.
-       - Hephaestus, 45, a rugged and weathered dwarf.
+       - Alex Clark, 30, a regal and elegant human priestess with a love of marriage and a talent for diplomacy.
+       - Evelyn Webb, 20, a wild and untamed half-elf acolyte with a love of nature and a talent for archery.
+       - Bryleigh Stonehead, 45, a rugged and weathered dwarf.
 
 #### Decatur
 - Ruler
@@ -86,9 +86,9 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 - Religion
   - Temple of Demeter
     - Workers:
-       - Persephone, 25, a beautiful and enchanting human priestess with a love of agriculture and a talent for gardening.
-       - Pan, 30, a wild and mischievous satyr acolyte with a love of nature and a talent for music.
-       - Hephaestus, 50, a wise and learned dwarf sage with a vast knowledge of horticulture.
+       - Mollie Ball, 25, a beautiful and enchanting human priestess with a love of agriculture and a talent for gardening.
+       - Amber Kaur, 30, a wild and mischievous satyr acolyte with a love of nature and a talent for music.
+       - Babs Stonejaw, 50, a wise and learned dwarf sage with a vast knowledge of horticulture.
         
 #### Belvedere Park
 - Ruler
@@ -108,9 +108,9 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 - Religion
   - Temple of Athena
     - Workers:
-       - Athena, 35, a regal and wise elf priestess with a love of wisdom and a talent for strategy.
-       - Apollo, 25, a handsome and talented half-elf acolyte with a love of art and a talent for poetry.
-       - Hephaestus, 60, a venerable and respected dwarf sage with a vast knowledge of philosophy and science.
+       - Kaylynn Benton, 35, a regal and wise elf priestess with a love of wisdom and a talent for strategy.
+       - Yehuda Reilly, 25, a handsome and talented half-elf acolyte with a love of art and a talent for poetry.
+       - Micky Ironworks, 60, a venerable and respected dwarf sage with a vast knowledge of philosophy and science.
        
 #### East Point
 - Ruler
@@ -176,9 +176,9 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 - Religion
   - Temple of Artemis
     - Workers:
-       - Artemis, 30, a fierce and independent human priestess with a love of the hunt and a talent for archery.
-       - Orion, 25, a handsome and daring half-elf acolyte with a love of adventure and a talent for tracking.
-       - Han, 40, a wild and mischievous satyr gardener with a love of nature and a talent for taming wild animals.
+       - Lesley Garcia, 30, a fierce and independent human priestess with a love of the hunt and a talent for archery.
+       - Taylor Kline, 25, a handsome and daring half-elf acolyte with a love of adventure and a talent for tracking.
+       - Harley Cole, 40, a wild and mischievous satyr gardener with a love of nature and a talent for taming wild animals.
 
 #### Doraville
 - Ruler
@@ -201,9 +201,9 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 - Religion
   - Temple of Apollo
     - Workers:
-       - Apollo, 40, a handsome and talented human priest with a love of music and a talent for healing.
-       - Daphne, 30, a shy and gentle elf acolyte with a love of plants and a talent for herbalism.
-       - Hephaestus, 65, a venerable and respected dwarf sage with a vast knowledge of music and medicine.
+       - Lesley Powell, 40, a handsome and talented human priest with a love of music and a talent for healing.
+       - Kerry SilentWind, 30, a shy and gentle elf acolyte with a love of plants and a talent for herbalism.
+       - Jackie Boyd, 65, a venerable and respected human sage with a vast knowledge of music and medicine.
        
 ### Ouside the Wall
 
@@ -222,9 +222,9 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 - Religion
   - Temple of Ares
     - Workers:
-       - Ares, 35, a fierce and warlike human priest with a love of battle and a talent for strategy.
-       - Eris, 25, a chaotic and unpredictable half-elf acolyte with a love of chaos and a talent for causing trouble.
-       - Hephaestus, 70, a venerable and respected dwarf sage with a vast knowledge of war and weaponry.
+       - Caden Cooper, 35, a fierce and warlike human priest with a love of battle and a talent for strategy.
+       - Ray Slater, 25, a chaotic and unpredictable half-elf acolyte with a love of chaos and a talent for causing trouble.
+       - Logan Sharp, 70, a venerable and respected human sage.
        
 #### Sandy Spring (400) North side outside of town (Tabaxi Camp)
 - Inn
@@ -246,6 +246,17 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Workers:
        - Galadriel, a young half-elf bard with a beautiful voice and a talent for storytelling.
        - Thrain, a middle-aged dwarf miner with a thick beard and a love of gemstones.
+- Religion
+  - Temple of Aphrodite
+    - Workers:
+       - Bev Treebark, 25, a beautiful and alluring half-elf priest with a love of romance and a talent for matchmaking.
+       - Gabby Chambers, 35, a middle-aged human temple guard with a regal and elegant demeanor.
+       - Erin Rose, 20, a young human acolyte with a kind heart and a love of beauty.
+  - Temple of Dionysus
+    - Workers:
+       - Brynn Holcomb, 31, a tall and imposing human priest with a love of wine and a talent for singing.
+       - Jody Guzman, 40, a middle-aged human cook with a love of feasting and a talent for cooking.
+       - Alex Wilcox, 50, an elderly satyr caretaker with a mischievous grin and a love
      
 #### Cumming (400) North side outside of town on Lake Lanier (mixed race, magic school)
 - Inn
@@ -257,9 +268,9 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
 - Religion
   - Temple of Poseidon
     - Workers:
-       - Alexios, 40, a tall and imposing human priest with a love of the sea and a talent for navigation.
-       - Thetis, 30, a serene and graceful elf acolyte with a love of sea creatures and a talent for singing.
-       - Drog, 55, a jolly and stout dwarf fisherman with a love of fishing and a talent for cooking.
+       - Steff Gates, 40, a tall and imposing human priest with a love of the sea and a talent for navigation.
+       - Aubrey Greenvine, 30, a serene and graceful elf acolyte with a love of sea creatures and a talent for singing.
+       - Jordan Nicholson, 55, a jolly and stout human fisherman with a love of fishing and a talent for cooking.
 
 #### Duluth (85) North East outside of town (Elf)
 - Inn
