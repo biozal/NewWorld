@@ -20,23 +20,23 @@ House Jackson rules over the territory of New Jersey.  They have been shadowed f
 
    - **Lady Kayla Jackson**:  Kayla is Lord Owen's daughter and Lord Charles sister.  She is a beautiful and cunning woman, in her late 30s, with long red hair and a mischievous smile. She wears a gown of red silk and carries a poisoned dagger that she keeps hidden in her sleeve.
 
-- **Lord Brandon Jackson**: Lord Charles Jackson's uncle, in his early 50s, with a stocky build and a bushy brown beard. He wears a suit of chain mail and carries a battle-axe that he likes to swing around to intimidate his enemies. Brandon is known for his hot temper and his tendency to rush into battle without thinking.
+- **Lord Brandon Jackson**: Lord Owen Jackson brother and Lord Charles Jackson's uncle, in his early 50s, with a stocky build and a bushy brown beard. He wears a suit of chain mail and carries a battle-axe that he likes to swing around to intimidate his enemies. Brandon is known for his hot temper and his tendency to rush into battle without thinking.
 
-- **Lady Ashlyn Jackson**: Lord Brandon Jackson's wife, in her early 40s, with long blonde hair and a regal bearing. She wears a gown of purple silk and carries a silver-tipped cane that she uses to keep her husband in line. Ashlyn is a shrewd negotiator and a master of courtly intrigue.
+  - **Lady Ashlyn Jackson**: Lord Brandon Jackson's wife, in her early 40s, with long blonde hair and a regal bearing. She wears a gown of purple silk and carries a silver-tipped cane that she uses to keep her husband in line. Ashlyn is a shrewd negotiator and a master of courtly intrigue.
 
-  - **Lord Ethan Jackson**: Lord Brandon and Ashlyn Jackon's son, in his late teens or early 20s, with short brown hair and a fierce gaze. He wears a suit of leather armor and carries a longbow that he is deadly accurate with. William is a skilled hunter and tracker, and he dreams of one day leading House Jackson's armies into battle.
+    - **Lord Ethan Jackson**: Lord Brandon and Ashlyn Jackon's son, in his late teens or early 20s, with short brown hair and a fierce gaze. He wears a suit of leather armor and carries a longbow that he is deadly accurate with. William is a skilled hunter and tracker, and he dreams of one day leading House Jackson's armies into battle.
 
-- **Lady Hollie Blackwood (Jackson)**: Lord Charles Jackson's aunt, in her mid-40s, with short black hair and piercing blue eyes. She wears a suit of black plate armor and carries a mace that she has used to crush many skulls in her time. Hollie is a stern and uncompromising woman who values discipline and order above all else.
+ - **Lady Hollie Blackwood (Jackson)**: Lord Charles Jackson's aunt, in her mid-40s, with short black hair and piercing blue eyes. She wears a suit of black plate armor and carries a mace that she has used to crush many skulls in her time. Hollie is a stern and uncompromising woman who values discipline and order above all else.
 
-- **Lord Joshua Blackwood**: Lady Hollie Blackwood's husband, in his early 50s, with a bald head and a neatly trimmed beard. He wears a suit of black leather armor and carries a pair of daggers that he is skilled at throwing. Joshua is a cunning and ruthless man who is feared by many of his enemies.
+    - **Lord Joshua Blackwood**: Lady Hollie Blackwood's husband, in his early 50s, with a bald head and a neatly trimmed beard. He wears a suit of black leather armor and carries a pair of daggers that he is skilled at throwing. Joshua is a cunning and ruthless man who is feared by many of his enemies.
 
-  - **Lady Sophia Blackwood**: Lady Hollie Blackwood and Lord Joshua Blackwood's daughter, in her late teens, with long black hair and a pale  complexion. She wears a gown of black velvet and carries a silver-tipped rapier that she is highly skilled with. Sophia is a quiet and    reserved young woman who prefers books to people, but she is fiercely loyal to her family.
+      - **Lady Sophia Blackwood**: Lady Hollie Blackwood and Lord Joshua Blackwood's daughter, in her late teens, with long black hair and a pale  complexion. She wears a gown of black velvet and carries a silver-tipped rapier that she is highly skilled with. Sophia is a quiet and    reserved young woman who prefers books to people, but she is fiercely loyal to her family.
 
-- **Lord Karson Jackson**: Lord Charles Jackson's uncle, in his early 50s, with a thin build and a sharp nose. He wears a suit of silver chain mail and carries a spear that he is deadly accurate with. Karson is a cunning strategist and a skilled diplomat who has many allies in the courts of other noble houses.
+- **Lord Karson Jackson**: Lord Owen Jackson brother and Lord Charles Jackson's uncle, in his early 50s, with a thin build and a sharp nose. He wears a suit of silver chain mail and carries a spear that he is deadly accurate with. Karson is a cunning strategist and a skilled diplomat who has many allies in the courts of other noble houses.
 
-- **Lady Margaret Jackson (Byers)**: Lord Karson Jackson's wife, in her late 40s, with curly brown hair and a warm smile. She wears a gown of green silk and carries a silver fan that she uses to hide her emotions. Margaret is a kind and generous woman who is beloved by many of House Jackson's vassals.
+  - **Lady Margaret Jackson (Byers)**: Lord Karson Jackson's wife, in her late 40s, with curly brown hair and a warm smile. She wears a gown of green silk and carries a silver fan that she uses to hide her emotions. Margaret is a kind and generous woman who is beloved by many of House Jackson's vassals.
 
-  - **Lady Karlie Jackson**: Lord Karson and Margaret Jackson's daughter, in her early 20s, with long brown hair and a cheerful demeanor. She wears a gown of yellow silk and carries a parasol that she uses to keep the sun off her face. Karlie is a talented singer and dancer who loves nothing more than performing for a crowd.
+    - **Lady Karlie Jackson**: Lord Karson and Margaret Jackson's daughter, in her early 20s, with long brown hair and a cheerful demeanor. She wears a gown of yellow silk and carries a parasol that she uses to keep the sun off her face. Karlie is a talented singer and dancer who loves nothing more than performing for a crowd.
 
 
 ## Cole Family
@@ -51,6 +51,6 @@ House Jackson rules over the territory of New Jersey.  They have been shadowed f
 
 - **Lady Margaret Campbell(Cole)**: Lady Chelsea's aunt, in her mid-50s, with gray hair and a gentle demeanor. She wears a gown of blue satin and carries a bouquet of flowers that she likes to give as gifts. Margaret is a kind and loving woman who is known for her generosity and her devotion to her family.
 
-- **Lord Edward Campbell**: Margaret's Campbell husband, in his late 50s, with a bald head and a stern gaze. He wears a suit of black plate armor and carries a sword that has been in his family for generations. Edward is a fierce warrior and a skilled strategist who has won many battles for House Campbell.
+  - **Lord Edward Campbell**: Margaret's Campbell husband, in his late 50s, with a bald head and a stern gaze. He wears a suit of black plate armor and carries a sword that has been in his family for generations. Edward is a fierce warrior and a skilled strategist who has won many battles for House Campbell.
 
-  - **Lady Amelia Campbell**: Lady Margaret and Lord Edward's daughter.  She is in her mid-20s, with long blonde hair and a sweet smile. She wears a gown of pink silk and carries a small purse that contains her favorite trinkets. Amelia is a kind-hearted young woman who loves animals and spends much of her time caring for them.
+    - **Lady Amelia Campbell**: Lady Margaret and Lord Edward's daughter.  She is in her mid-20s, with long blonde hair and a sweet smile. She wears a gown of pink silk and carries a small purse that contains her favorite trinkets. Amelia is a kind-hearted young woman who loves animals and spends much of her time caring for them.
