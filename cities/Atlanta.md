@@ -54,6 +54,52 @@ The city council is comprised of 9 members who are elected by the people of Atla
 - Age:  45
 - Description: Andre Thomas is a half-orc man with a stern expression and a muscular build. He is responsible for overseeing the Department of Planning and Development, and is known for his tough stance on developers and his efforts to ensure that new development projects are sustainable and community-focused.
 
+## Law and Order
+
+The Alanteers watch are the local police force whose duty was to capture criminals, settle petty disputes, give directions, summon medical and priestly aide, and keep the general peace among the people of Atlanta.  The various regions of the city are rulled by magisters.
+
+### Altaneers Watch Captians
+
+- Name: Captain Elena Stone
+- Age:  38
+- Description: Elena is a human woman with short brown hair and piercing blue eyes. She is a seasoned veteran of the city guard, known for her tactical expertise and her unwavering commitment to justice.
+
+- Name: Captain Drog the Bold
+- Age:  55
+- Description: Drog is an orc man with a rugged, scarred face and a booming voice. He is a formidable warrior and a respected leader, known for his bravery in battle and his fierce loyalty to the city.
+
+- Name: Captain Tiberius Goldhammer
+- Age:  70
+- Description: Tiberius is a dwarf man with a bushy beard and a stout build. He is a master craftsman and a shrewd tactician, known for his ability to design and build fortifications that can withstand even the most determined siege.
+
+- Name: Captain Lyra Starweaver
+- Age:  123
+- Description: Lyra is an elf woman with long, silver hair and a serene expression. She is a powerful mage and a skilled diplomat, known for her ability to resolve conflicts peacefully and her dedication to protecting the city's magical artifacts.
+
+- Name: Captain Mina Brightspark
+- Age:  26
+- Description: Mina is a gnome woman with wild, curly hair and a mischievous grin. She is a gifted inventor and a fearless fighter, known for her ability to create unconventional weapons and her unflinching courage in battle.
+
+- Name: Captain Kethril Fireblade
+- Age:  42
+- Description: Kethril is an elf man with fiery red hair and a fierce demeanor. He is a master swordsman and a fierce advocate for justice, known for his ability to track down even the most elusive criminals and his unwavering commitment to upholding the law.
+
+- Name: Captain Grimgar Stonefist
+- Age:  70
+- Description: Grimgar is a dwarf man with a gruff voice and a thick beard. He is a veteran of many battles and a master strategist, known for his ability to lead his troops to victory even in the face of overwhelming odds.
+
+- Name: Captain Khazra Grimtotem
+- Age:   29
+- Description: Khazra is an orc woman with a sleek, muscular build and a sharp mind. She is a skilled fighter and a clever tactician, known for her ability to outmaneuver her enemies and her unwavering loyalty to the city.
+
+- Name: Captain Ashlyn Swiftfoot
+- Age:   44
+- Description: Ashlyn is a human woman with long, blonde hair and a quick wit. She is a skilled archer and a gifted scout, known for her ability to gather intelligence and her unwavering commitment to protecting the city's borders.
+
+- Name: Captain Gromm Ironfist
+- Age:   52
+- Description: Gromm is a dwarf man with a thick beard and a gruff demeanor. He is a master blacksmith and a seasoned warrior, known for his ability to craft weapons and armor that can withstand even the most ferocious attacks.
+
 # Regions
 
 Atlanta is a large city broken up into regions of the city.  The city is surrounded by a large wall that goes around the city called the `Wall`.  This was to keep raiders from destroying the city.     
