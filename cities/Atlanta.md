@@ -13,11 +13,13 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Children:  Two daughters: Isabella and Sophia
 - Shops
   - The Mystic Emporium
-    - Owner: Tiberius Stonefire: Tiberius is a middle-aged dwarf with a bushy black beard and piercing blue eyes. He is known for his expertise in magical artifacts and his ability to locate rare items.
     - Type:  Magic items
+    - Owner: Tiberius Stonefire: Tiberius is a middle-aged dwarf with a bushy black beard and piercing blue eyes. He is known for his expertise in magical artifacts and his ability to locate rare items.
+    
   - The Golden Hammer
-    - Owner: Brienne Redwing: Brienne is a tall and imposing woman with long red hair and a fiery temperament. She is a skilled blacksmith and has a reputation for crafting some of the finest weapons and armor in the land.
     - Type:   Weapons and armor
+    - Owner: Brienne Redwing: Brienne is a tall and imposing woman with long red hair and a fiery temperament. She is a skilled blacksmith and has a reputation for crafting some of the finest weapons and armor in the land.
+    
 
 #### Buckhead
 - Ruler
@@ -26,11 +28,12 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Children:  One son, Roland, and one daughter, Rowena.
 - Shops
   - The Feathered Friend
-    - Owner: Darian Farseer: Darian is a young half-elf with a mischievous grin and bright green eyes. He has a deep connection to animals and is able to train even the most unruly pets.
     - Type:  Familiars and pets
+    - Owner: Darian Farseer: Darian is a young half-elf with a mischievous grin and bright green eyes. He has a deep connection to animals and is able to train even the most unruly pets.    
   - The Glass Eye
-    - Owner: Eliza Nightshade:  Eliza is a mysterious and alluring woman with dark hair and piercing green eyes. She is a skilled alchemist and sells a variety of potions, salves, and other magical concoctions.
     - Type:   Alchemy supplies
+    - Owner: Eliza Nightshade:  Eliza is a mysterious and alluring woman with dark hair and piercing green eyes. She is a skilled alchemist and sells a variety of potions, salves, and other magical concoctions.
+
         
 #### Decatur
 - Ruler
@@ -39,41 +42,75 @@ Atlanta is a large city broken up into regions of the city.  The city is surroun
     - Children:  None
 - Shops
   - The Enchanted Garden
-    - Owner: Thorne Bramblethorn: Thorne is a middle-aged halfling with a jovial demeanor and a love of nature. He grows a wide variety of plants and herbs in his garden and is known for his ability to heal even the most stubborn ailments.
     - Type:  Plants and herbs
+    - Owner: Thorne Bramblethorn: Thorne is a middle-aged halfling with a jovial demeanor and a love of nature. He grows a wide variety of plants and herbs in his garden and is known for his ability to heal even the most stubborn ailments.
   - The Inkwell
-    - Owner: Selene Moonwater:  Selene is a wise and learned elf with long silver hair and piercing blue eyes. She sells a wide variety of books and scrolls on topics ranging from history and philosophy to magic and the arcane.
     - Type:   Books and scrolls
+    - Owner: Selene Moonwater:  Selene is a wise and learned elf with long silver hair and piercing blue eyes. She sells a wide variety of books and scrolls on topics ranging from history and philosophy to magic and the arcane.
+    
         
 #### Belvedere Park
 - Ruler
   - Thorne Ironwood - 80 year old male Dwarf.   Thorne is a rugged and handsome man with short, brown hair and a scruffy beard. He is known for his bravery and his love of adventure. He is also a skilled blacksmith.
     - Spouse:  Sariel Ironwood
     - Children:  One daughter, Lyra.
+- Shops
+  - The Lucky Horseshoe
+    - Type:  Farm and Horse supplies
+    - Owner: Calum Swiftfoot: Calum is a jovial and good-natured halfling with a love of horses. He sells a variety of farm and horse-related items, from saddles and bridles to feed and grooming supplies.  He also sells seeds for farmers and farming equipment.
+    
 
 #### East Point
 - Ruler
   - Vesper Nightshade - 180 year old female elf.   Lady Vesper is a mysterious and enigmatic woman with long, black hair and piercing red eyes. She is known for her magical abilities and her connection to the supernatural.
     - Spouse:  none
     - Children: none
-    
+- Shops
+  - The Twisted Thorn
+    - Type:  Poison and potions
+    - Owner: Jarek Nightshade: Jarek is a shadowy figure with a hooded cloak and piercing red eyes. He is a skilled poisoner and alchemist, and sells a variety of deadly poisons and potent potions.
+  - The Dark Emporium
+    - Type:   Dark magic items
+    - Owner: Lilith Shadowmoon:  Lilith is a seductive and alluring tiefling with long black hair and bright red eyes. She sells a variety of dark and dangerous magic items, from cursed artifacts to necromantic talismans.
+
 #### College Park
 - Ruler
   - VLucien Ravenswood - 220 year old male elf.   Lucien is a tall and lean man with pale skin and jet-black hair. He is known for his keen intellect and his love of books. He is also a skilled wizard.
     - Spouse:  Celeste Ravenswood
     - Children: Two sons, Alaric and Tristan.
-    
+- Shops
+  - The Arcane Attic
+    - Type:  Magic items and artifacts
+    - Owner: Alaric Ravenswood: Alaric is a young half-elf with a sharp mind and a love of magic. He sells a variety of enchanted items and magical artifacts, and is always on the lookout for rare and powerful magic.
+  - The Clockwork Emporium
+    - Type:  Mechanical items
+    - Owner: Gwendolyn Gearheart:  Gwendolyn is a gnome with wild, curly hair and bright green eyes. She sells a variety of mechanical and tinkering items, from clockwork toys to intricate automata.
+        
 #### Mountain View
 - Ruler
   - Aric Stonefist - 85 year old male dwarf.   Lord Aric is a burly and rugged man with a thick beard and scars on his face. He is known for his strength and his skill as a warrior. He is also a master of siegecraft.
     - Spouse:  Freya Stonefist
     - Children: Two sons, Erik and Leif.
-    
+- Shops
+  - The Moonlit Grove
+    - Type:  Jewelry and gemstones
+    - Owner: Lyra Silvermist: Lyra is a graceful and ethereal elf with long silver hair and bright blue eyes. She sells a variety of beautiful jewelry and rare gemstones, many of which are enchanted or have magical properties.
+  - The Crystal Cavern
+    - Type:  Crystals and minerals
+    - Owner: Jasper Earthsong:  Jasper is a sturdy dwarf with a thick beard and piercing blue eyes. He sells a variety of crystals and minerals, many of which have magical or healing properties.
+
 #### Doraville
 - Ruler
   - Eilistraee Moonwhisper - unknown age.   Eilistraee is a divine being, a goddess of the moon and the hunt. She appears to mortals as a beautiful elven woman with silver hair and glowing blue eyes. She is known for her compassion and her love of music and dance.
     - Spouse:  none
     - Children: none
+- Shops
+  - The Iron Anvil
+    - Type:  Smithing, weapons, armor, and metalworking
+    - Owner: Erik Stonefist: Erik is a burly and rugged dwarf with a thick beard and a love of metalworking. He sells a variety of metal goods, from weapons and armor to decorative items and jewelry.
+  - The Herbalist's Haven
+    - Type:  Herbs and potions
+    - Owner: Freya Stonefist:  Freya is a stern but kind-hearted dwarf with a love of nature and a talent for healing. She sells a variety of herbs and potions, many of which are useful for treating common ailments or injuries.
 
 ### Ouside the Wall
   - Marietta (75) North West side outside of town (mixed race)
