@@ -63,3 +63,18 @@ All of Lord Michael's family members are all influential members of the royal co
 - **Noah Kelley of Weston**: He is Lady Elizabeth's uncle and the younger brother of her mother. He is in his early 70s, with short grey hair and bright blue eyes. He is married to Eve Kelley (Mooney) of Weston. Noah is known for his military prowess and was a respected general in the kingdom's army.
 
   - **Eve Kelley (Bartlett) of Weston**:  Married to Noah Kelley.  She is in her early 70s.
+
+
+# Plot Points
+
+- Lord Michael Adams is the most loyal of the lords and is best friend to King Alexander Argentus.  This is the major reason he rules over so much land compared to the other houses.
+
+- House Adams has always thought 
+
+- Lord Michael Adams also didn't agree with making Jonathan Smith a lord over Ohio.  
+
+- Lord Michael Adams has a great hate for magic users and blames them for most of the problems in society. 
+- 
+- House Adams has a group of bounty hunters that hunt outlawed magic users called The Sorcery Suppressors.  They from time to time will even go out of hte lands of the Empire to hunt powerful magic users.  
+
+
