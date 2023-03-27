@@ -8,7 +8,7 @@ House Adams rules Massachusetts, New Hampshire, Maine, Vermont, Connecticut, and
 
   - **Lady Charlotte Adams**: She is Lord Michael's oldest daughter, in her late 20s. She is a stunning beauty with long curly blonde hair and bright blue eyes. She is known for her love of fashion and has been known to design clothing for the royal family. She is currently unmarried.
 
-  - **Lord William Adams**: He is Lord Michael's oldest son, in his mid-20s. He is tall and lean with short brown hair and piercing blue eyes. He is a skilled politician and has been known to use his charm to gain influence. He is currently unmarried.
+  - **Lord William Adams**: He is Lord Michael's oldest son, in his mid-20s. He is tall and lean with short brown hair and piercing blue eyes. He is a skilled politician and has been known to use his charm to gain influence. He is currently unmarried.  He has recently been sent to Maine to rule over the lands.
 
   - **Lady Sophia Adams**: She is Lord Michael's younger daughter, in her early 20s. She is a tall and slender woman with long curly brown hair and soft brown eyes. She is a talented musician and has been known to perform at royal events. She is currently unmarried.
 
@@ -69,12 +69,10 @@ All of Lord Michael's family members are all influential members of the royal co
 
 - Lord Michael Adams is the most loyal of the lords and is best friend to King Alexander Argentus.  This is the major reason he rules over so much land compared to the other houses.
 
-- House Adams has always thought 
-
 - Lord Michael Adams also didn't agree with making Jonathan Smith a lord over Ohio.  
 
 - Lord Michael Adams has a great hate for magic users and blames them for most of the problems in society. 
-- 
+
 - House Adams has a group of bounty hunters that hunt outlawed magic users called The Sorcery Suppressors.  They from time to time will even go out of hte lands of the Empire to hunt powerful magic users.  
 
-
+- Lord Michael Adams uses his extended family to rule over the lands he controls.  His son is ruling over Maine.
