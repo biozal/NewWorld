@@ -18,6 +18,10 @@ House Brown rules over the territory of Pennsylvania, West Virginia, and Virgina
 
  - **Duke Delcan Brown**:  Brother of Duke William Brown and uncle of Duke Phillip Brown.  He is 65 years old.  Delcan Brown is a burly man with a thick beard and a booming voice. He is a successful miner who owns several properties throughout Pennsylvania. He is known for his love of horses and his skill as a sharpshooter.
 
+   - **Duchess Claire Brown**:  Wife of of Duke Delcan Brown and uncle of Duke Phillip Brown.  She is 38 years old.  Claire is a kind and nurturing woman with long curly brown hair and bright green eyes. She's always had a love for nature, and spends most of her time gardening and caring for their animals on their farm. She's deeply devoted to her family and will do anything to protect them.
+   
+- **Lord Abigail Brown**:  Daughter of Duke Delcan and Duchess Claire Brown.  She is 12 years old.  Abigail is the oldest of the Brown children and takes after her father in her love of the outdoors. She's a talented archer and has a quick wit that often gets her out of sticky situations. She's fiercely protective of her siblings and often acts as the mediator between them.
+
  - **Duchess Madison Brown**: Sister of Duke William Brown and aunt of Duke Phillip Brown.  She died when she was 22 years old from the flu.
 
 ## Hastings Family
