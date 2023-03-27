@@ -1,10 +1,6 @@
 # Atlanta
 The city is known for its vibrant culture, diverse population, the ability for magic users to live without fear of being prosecuted, and influential government.  Atlanta is a mixing pot of all races.
 
-# Regions
-
-Atlanta is a large city broken up into regions of the city.  The city is surrounded by a large wall that goes around the city called the `Wall`.  This was to keep raiders from destroying the city.     
-
 # Government
 
 ## Mayor
@@ -57,6 +53,10 @@ The city council is comprised of 9 members who are elected by the people of Atla
 - Name: Andre Thomas
 - Age:  45
 - Description: Andre Thomas is a half-orc man with a stern expression and a muscular build. He is responsible for overseeing the Department of Planning and Development, and is known for his tough stance on developers and his efforts to ensure that new development projects are sustainable and community-focused.
+
+# Regions
+
+Atlanta is a large city broken up into regions of the city.  The city is surrounded by a large wall that goes around the city called the `Wall`.  This was to keep raiders from destroying the city.     
 
 # Inside the Wall
 
