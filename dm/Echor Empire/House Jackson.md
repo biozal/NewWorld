@@ -40,7 +40,7 @@
 
 ## Cole Family
 
-- George Cole**:  George Cole is Lady Chelsea Cole father.  He is a jovial man, in his 60s, with a round belly and a booming laugh. He wears a brightly colored doublet and carries a small harp that he likes to play during feasts and celebrations. 
+- **George Cole**:  George Cole is Lady Chelsea Cole father.  He is a jovial man, in his 60s, with a round belly and a booming laugh. He wears a brightly colored doublet and carries a small harp that he likes to play during feasts and celebrations. 
 
   - **Elizabeth Cole**:  Elizabeth Cole is Lady Chelsea Cole mother.  She is a refined woman, in her 50s, with short black hair and piercing blue eyes. She wears a gown of black velvet and carries a silver-tipped cane that doubles as a deadly weapon in a pinch.
 
