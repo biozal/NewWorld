@@ -8,5 +8,7 @@ United by their love for nature and commitment to its preservation, these indivi
 
 The Verdant Circle is known for its extensive network of agents and allies, who work together to gather intelligence on potential threats to the environment and devise strategies to counteract them. The faction often cooperates with other organizations and local governments to achieve their goals, though they aren't afraid to take more drastic measures if necessary. Their members are skilled in diplomacy, espionage, and combat, enabling them to be effective advocates for the environment both in and out of the battlefield.
 
+The main base of operations is in a hidden location between Atlanta and Macon.  Only the most trusted members know of it's location and are allowed to enter.  The circle sets up establishments in most local citities disguise as local shops selling platns and flowers.
+
 
 ![](images/verdant-circle-pic.png?raw=true)
