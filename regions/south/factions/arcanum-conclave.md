@@ -7,3 +7,5 @@ Recognizing the vast potential and power of arcane magic, the founding members o
 Over time, the Arcanum Conclave earned a reputation for excellence and became the premier destination for aspiring spellcasters from all corners of Mystara. The faction's members are dedicated to advancing the understanding and practice of magic, both for the betterment of society and the pursuit of personal mastery.
 
 The Arcanum Conclave is governed by a council of archmages, each an expert in their respective field of magic. These esteemed individuals are responsible for shaping the curriculum and overseeing the organization's various research projects and magical endeavors. The faction maintains an extensive network of allies and contacts among magical communities and organizations, ensuring they remain at the forefront of arcane discovery and innovation.
+
+![](images/arcanum-conclave-pic.png?raw=true)
