@@ -7,3 +7,6 @@ The Verdant Circle is a powerful and respected faction, dedicated to preserving 
 United by their love for nature and commitment to its preservation, these individuals formed The Verdant Circle as a means to organize their efforts and pool their resources. Over time, their numbers grew as they attracted followers from various walks of life, including fey creatures, beastfolk, and other nature-loving individuals. The faction gained a reputation for their unwavering dedication to conservation, and they worked tirelessly to protect endangered species, restore damaged habitats, and promote environmental awareness among the populace.
 
 The Verdant Circle is known for its extensive network of agents and allies, who work together to gather intelligence on potential threats to the environment and devise strategies to counteract them. The faction often cooperates with other organizations and local governments to achieve their goals, though they aren't afraid to take more drastic measures if necessary. Their members are skilled in diplomacy, espionage, and combat, enabling them to be effective advocates for the environment both in and out of the battlefield.
+
+
+![](images/verdant-circle-pic.png?raw=true)
