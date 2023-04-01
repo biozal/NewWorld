@@ -1,7 +1,7 @@
 # Atlanta
 The city is known for its vibrant culture, diverse population, the ability for magic users to live without fear of being prosecuted, and influential government.  Atlanta is a mixing pot of all races.
 
-![](images/atlanta-ga.png?raw=true)
+![](../images/atlanta-ga.png?raw=true)
 
 # Government
 
