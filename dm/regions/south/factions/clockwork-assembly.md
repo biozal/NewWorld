@@ -1,5 +1,9 @@
 # The Clockwork Assembly
 
+## Description
+
+[Guide](/regions/south/factions/clockwork-assembly.md)
+
 ## Notable Members
 
 - Master Artificer Fizzwick Gearspark (Male Gnome Artificer): A genius inventor and charismatic leader, Fizzwick serves as the head of the Clockwork Assembly and oversees the day-to-day operations of the Cogwork Citadel. His boundless creativity and passion for innovation inspire those around him.
