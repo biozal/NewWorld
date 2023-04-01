@@ -7,3 +7,4 @@ United by their commitment to upholding the principles of honor, righteousness, 
 Over time, the Order of the Radiant Shield gained widespread recognition and respect for their unwavering dedication to protecting the innocent and preserving the peace. Their reputation spread far and wide, attracting members from various backgrounds, including clerics, fighters, and even a few repentant rogues seeking redemption.
 
 The faction operates through a network of knights, diplomats, and agents who work in concert to quell unrest, mediate disputes, and defend the realm from both internal and external threats. They often collaborate with local governments and other organizations in their quest for justice and are known for their unyielding resolve in the face of adversity.
+![](images/order-radiant-shield-pic.png?raw=true)
