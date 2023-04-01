@@ -7,3 +7,4 @@ Recognizing the importance of understanding history in order to learn from it an
 The Chronos Society's primary mission is to unearth the secrets of the past through archaeological expeditions, historical research, and the meticulous cataloging of ancient relics and texts. The organization funds and organizes expeditions to remote and forgotten corners of the world in search of lost civilizations, long-forgotten tombs, and hidden treasures.
 
 The faction is led by a council of renowned historians, archaeologists, and loremasters who work together to guide the organization's research and exploration efforts. Their dedication to the pursuit of knowledge has earned them the respect and admiration of scholars and adventurers.
+![](images/timekeepers-pic.png?raw=true)
