@@ -1,5 +1,6 @@
 # The Verdant Circle
 
+## Members
 Elira Willowshade (Female Wood Elf Druid): A wise and compassionate leader, Elira has served as the High Druid of The Verdant Circle for over a century. Her deep connection to the natural world and her ability to rally the faction's members make her an indispensable force in their fight for the environment.
 
 Thondar Oakheart (Male Dwarf Druid): A gruff but lovable dwarf, Thondar is a master of geomancy and stonecraft. He is responsible for overseeing the restoration of damaged lands and is a fervent advocate for sustainable mining practices.
