@@ -1,5 +1,9 @@
 # The Aerial Reclaimers
 
+## Description
+
+[Guide](/regions/south/factions/aerial-reclaimers.md)
+
 ## Notable Members:
 
 Elder Whisper (Male Kenku Wizard): A skilled spellcaster and cunning strategist, Elder Whisper serves as the leader of the Aerial Reclaimers. His vast knowledge of ancient magic and his determination to restore his people's abilities make him a formidable figure within the organization.
