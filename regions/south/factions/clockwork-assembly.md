@@ -9,3 +9,5 @@ Realizing the potential of combining their diverse skills and expertise, the fou
 The Clockwork Assembly's primary mission is to advance the art of engineering and magical item creation through research, experimentation, and education. They offer training programs and apprenticeships to aspiring engineers and artisans, while their skilled craftsmen create and sell an array of unique items and inventions to fund their research endeavors.
 
 The faction is governed by a council of master engineers and artificers, who work together to steer the direction of the organization and ensure the continued success of their research and development projects. Their reputation for ingenuity and creativity has attracted the attention and patronage of adventurers, nobles, and governments from across the realm.
+
+![](images/clockwork-assembly-pic.png?raw=true)
