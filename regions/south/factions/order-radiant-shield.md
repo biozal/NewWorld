@@ -1,5 +1,5 @@
 # The Order of the Radiant Shield
-![](images/verdant-circle.png?raw=true)
+![](images/order-radiant-shield.png?raw=true)
 The Order of the Radiant Shield is a revered and influential faction in the south, dedicated to maintaining peace and justice across the region. Established over a century ago by a group of noble paladins and enlightened aristocrats, the organization was created in response to the rising tide of chaos and lawlessness that threatened to engulf the land.
 
 United by their commitment to upholding the principles of honor, righteousness, and benevolence, the founding members of the Order of the Radiant Shield set out to establish a beacon of hope for the people of the south. They established strongholds and training grounds across the region, where aspiring paladins and champions of justice could hone their skills and pledge their allegiance to the cause.
