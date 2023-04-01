@@ -2,7 +2,7 @@
 
 ## Description
 
-[Guide](/south/factions/verdant-circle.md)
+[Guide](/regions/south/factions/verdant-circle.md)
 
 ## Members
 Elira Willowshade (Female Wood Elf Druid): A wise and compassionate leader, Elira has served as the High Druid of The Verdant Circle for over a century. Her deep connection to the natural world and her ability to rally the faction's members make her an indispensable force in their fight for the environment.
