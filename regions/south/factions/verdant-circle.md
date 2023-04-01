@@ -1,5 +1,7 @@
 # The Verdant Circle
 
+![](images/verdant-circle.png?raw=true)
+
 The Verdant Circle is a powerful and respected faction, dedicated to preserving the balance of nature and protecting the environment. Founded several centuries ago, the organization was born out of a gathering of like-minded druids, rangers, and other friends of the environment who shared a common concern over the rapid industrialization and deforestation taking place across the land. They believed that unchecked progress would lead to the destruction of the natural world and disrupt the balance of the ecosystem, which would eventually harm all living creatures.
 
 United by their love for nature and commitment to its preservation, these individuals formed The Verdant Circle as a means to organize their efforts and pool their resources. Over time, their numbers grew as they attracted followers from various walks of life, including fey creatures, beastfolk, and other nature-loving individuals. The faction gained a reputation for their unwavering dedication to conservation, and they worked tirelessly to protect endangered species, restore damaged habitats, and promote environmental awareness among the populace.
