@@ -1,6 +1,10 @@
 # The Order of the Radiant Shield
 
-Notable Members:
+## Description
+
+[Guide](/regions/south/factions/order-radiant-shield.md)
+
+## Notable Members
 
 - Lady Seraphina Brightmantle (Female Human Paladin): The venerable and charismatic leader of the Order, Lady Seraphina is revered for her wisdom, courage, and unwavering commitment to justice. She serves as a guiding light for the faction and is a living embodiment of their noble ideals.
 
