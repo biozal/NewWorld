@@ -1,6 +1,10 @@
 # The Arcanum Conclave
 
-## Notable Members
+## Description
+
+[Guide](/regions/south/factions/arcanum-conclave.md)
+
+## Noble Members
 
 Archmage Erevan Silvertome (Male High Elf Wizard): A brilliant and enigmatic scholar, Erevan serves as the headmaster of the Arcanum Spire and the de facto leader of the Arcanum Conclave. His expertise in numerous fields of magic and his passion for uncovering the mysteries of the arcane make him a respected and inspiring figure.
 
