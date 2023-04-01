@@ -1,5 +1,9 @@
 # The Chronos Society
 
+## Description
+
+[Guide](/regions/south/factions/chronos-society.md)
+
 ## Notable Members
 
 - Dr. Thalia Stonequill (Female Human Historian): A brilliant and seasoned historian, Dr. Stonequill serves as the director of the Chronos Society and curator of the Timekeeper's Repository. Her encyclopedic knowledge of history and her keen eye for detail make her an invaluable leader and mentor.
