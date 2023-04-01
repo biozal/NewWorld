@@ -2,6 +2,8 @@
 
 ## Description
 
+[Guide](/regions/south/factions/wandering-emporium.md)
+
 ## Notable Members
 
 Caravan Master Elara Silverwind (Female Half-Elf Bard): A charismatic and savvy merchant, Elara serves as the leader of the Wandering Emporium, overseeing its operations and ensuring the smooth coordination of the caravan's travels. Her diplomatic skills and keen business sense have helped the organization thrive.
