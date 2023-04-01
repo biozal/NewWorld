@@ -80,6 +80,6 @@ Much is not known about them other than they are the most powerful of the giants
 
 The date is 1120 AT (After Titans).  Much records of time were lost and very little is known about the times of before the War of Titans.  The original titans went to world with the new gods, giants and dragons.  This war lasted over 100 years and most of the lands were greatly destroyed in the process, with over 98% of the worlds population lost in the war.
 
-800 years following the war, the world population started to recover, relationships between the races started to mend, and cities started to pop-up around the lands.  
+450 years following the war, the world population started to recover, relationships between the races started to mend, and cities started to pop-up around the lands.  
 
 In routes between some cities are still very dangerous and most traveling caravans require adventures or hired mercenaries to protect them from the new evil monsters and forces that stock the lands.  
